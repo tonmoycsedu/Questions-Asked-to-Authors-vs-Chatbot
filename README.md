@@ -1,4 +1,4 @@
-# A dataset questions asked to Authors vs a Chatbor
+# A dataset of questions asked to Authors vs a Chatbor
 
 This is the accompanying dataset for the following research paper: Naimul Hoque, Ayman A Mahfuz, Mayukha Sridhatri Kindi, and Naeemul Hassan. 2024. 
 Towards Designing a Question-Answering Chatbot for Online News: Understanding Questions and Perspectives. 
