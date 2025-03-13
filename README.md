@@ -57,6 +57,9 @@ Please see definition and examples of the categories below.
 
 ```Blooms_taxonomy```: A discrete scale (1-6) to indicate the complexity of the questions. https://en.wikipedia.org/wiki/Bloom%27s_taxonomy
 
+## License
+This dataset is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
 
 
  
