@@ -1,0 +1,1003 @@
+user_id,news,condition,line_number,question,Fact,Details,Evidence,Close_ended,Opinion,Explanation,Other,Journalistic_Integrity,Blooms_taxonomy
+649340531a2f52d516451864,Chile’s desert dumpsite for 60K tons of fast fashion seen from space,authors,SkyFi reported it was able to pinpoint the coordinates of the piles with help from members of its Discord channel and quickly accessed an existing image.,How did the Discord members even know where to start looking for the coordinates or region of the world?,0,1,0,0,0,0,0,0,2
+6495a3d98a1cd336e64c06e0,Chile’s desert dumpsite for 60K tons of fast fashion seen from space,authors,n/A,I am curious how this started to be a dump site for clothing.,0,1,0,0,0,0,0,0,2
+64a6f9d4e6f19adf91d06d91,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,N/a,Will this bill make any of our taxes go up?,0,0,0,1,0,1,0,0,1
+64a6f9d4e6f19adf91d06d91,Measles outbreak across US hits 25 year high,authors,N/a,Could it be possible that a third booster will ever be required due to more and more people not getting the vaccine?,0,0,0,0,1,1,0,0,2
+6495b5e48a1cd336e64c06e5,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,lines 26/26,"""Border crisis"" is quite heavy handed. Why is it a border crisis? Can you give some context?",0,1,1,0,0,1,0,1,6
+6495b5e48a1cd336e64c06e5,Chile’s desert dumpsite for 60K tons of fast fashion seen from space,authors,Line 7,Are any discounts being offered on this clothing to make the sale more appealing to customers and reduce how much is being sent to the landfill? Do you know of the specific retailers?,0,1,0,0,0,0,0,0,5
+6495b5e48a1cd336e64c06e5,Chile’s desert dumpsite for 60K tons of fast fashion seen from space,authors,Line 7,Do you know if attempts are being made to sell excess clothing or give it a way to impoverished areas across the globe?,0,1,0,0,0,0,0,0,5
+6495b5e48a1cd336e64c06e5,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,Line 3,"Can you give some context to ""massive numbers.?"" How do these numbers compare to past administrations or previous decades?",0,1,1,0,0,1,0,1,6
+6495b5e48a1cd336e64c06e5,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",authors,line 25,Can you tell me more about XYZ NEWs Organization. Sounds madeup.,0,1,1,0,0,0,0,1,2
+6495b5e48a1cd336e64c06e5,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",authors,Line 17,Can you give names of the local officials?,1,0,0,0,0,0,0,0,1
+649340531a2f52d516451864,Chile’s desert dumpsite for 60K tons of fast fashion seen from space,authors,"An estimated 39,000 tons of unwanted clothes are added to the pile each year.",How many items of clothing are in 1 ton of clothing?,1,0,0,0,0,0,0,0,1
+64a696f2e22bbccf37317e29,Renewable energy is here. But how do we store it for the future?,authors,"9,10,11",How does converting combustion engines to run on ammonia contribute to long-term energy storage solution?,0,0,0,0,0,1,0,0,2
+64959e5d8a1cd336e64c06dc,The meaning behind the far-right symbol Texas shooter wore as he killed 8,authors,78-80,Why was there an opinion tacked on to the end of the article that speculated about the motivation with such a broad brush?,0,0,0,0,0,1,0,1,4
+64a6a09486298c0ec95cefa4,The meaning behind the far-right symbol Texas shooter wore as he killed 8,authors,70-72,What reasons would someone have for supporting a white supremacy group if they weren't white?,0,1,0,0,1,0,0,0,3
+649127b977cb3a816838b811,Who is George Santos and why is he in trouble?,authors,68-74,"How difficult is it to politically remove him due to the crime(s) and violations of ethics through official channels if he doesn't choose to willingly resign? And would such a removal, if successful, carry any penalties such as barring him from holding public office again?",0,1,0,0,1,0,0,0,5
+64a7028435d90f9dd58308b0,Who is George Santos and why is he in trouble?,authors,67-72,When does Mr Santos need to issue a plea regarding the charges against him?,1,0,0,0,0,0,0,0,1
+64959e5d8a1cd336e64c06dc,The meaning behind the far-right symbol Texas shooter wore as he killed 8,authors,67-68,Did the leader of the proud boys who was arrested have anything to do with the creation of the Spanish language version of The Daily Stormer?,0,1,0,0,0,0,0,0,2
+649cf28ff9b8fec654033b72,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",chatbot,63-66,How will the administration work with Guatemala to prevent so many migrants from leaving their country?,0,1,0,0,0,0,0,0,2
+6493727e161307e319dc6cdb,Who is George Santos and why is he in trouble?,authors,62-63,Is there any reason to believe that any of the charges put up against him will result in him losing his position in the government?,0,0,0,0,1,0,0,0,6
+64981a5bfc989bfbf1514221,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",chatbot,61. 62. 63. 64. 65. 66. 67,What is Harris's primary focus when it comes to handling immigration moving forward?,0,1,0,0,0,0,0,0,2
+64981eadf67109d07fbb71ad,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",chatbot,61-66,"If VP Harris doesn't want to deal with immigration, then why doesn't she appoint someone else?",0,0,0,0,0,1,0,0,4
+64a6f9ee35d90f9dd58308ad,The meaning behind the far-right symbol Texas shooter wore as he killed 8,authors,60-32,Why does meme culture stand in as an excuse for people adopting hate filled ideology?,0,0,0,0,0,1,0,0,3
+64981a5bfc989bfbf1514221,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,"58,59. 60",Are there any international regulations in place?,0,1,0,0,0,0,0,0,2
+6495a52c8a1cd336e64c06e2,Thawing permafrost may unleash industrial pollution across the Arctic,authors,58-60,What is the hold up in international regulation for this increasingly likely problem?,0,1,0,0,0,0,0,0,1
+64980afaf67109d07fbb71a8,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,58-60,Is anyone allowed to store substances in the Arctic permafrost?,1,0,0,1,0,0,0,0,1
+64a49107b4f3637d496d4568,The meaning behind the far-right symbol Texas shooter wore as he killed 8,chatbot,57-59,Do adopters of extremist materials completely understand where the materials came from?,0,1,0,0,0,1,0,0,4
+64a6a51c86298c0ec95cefa5,Who is George Santos and why is he in trouble?,authors,55-60,Is there any data to support the claim a new congressperson shouldn't have expenditures like this? Can it be compared to similar politicians?,0,0,1,0,0,0,0,1,2
+649126127b94fcb45e539181,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,55-58,Why wasn't harris reprimanded for not doing her job for immigration? t,0,0,0,0,0,1,0,0,4
+64a693ad86298c0ec95cefa2,Thawing permafrost may unleash industrial pollution across the Arctic,authors,52-57,"If the dangers of these findings are so prominent, why are politicians not enacting laws to prevent or to slow down the process of permafrost melting?",0,0,0,0,0,1,0,0,3
+64a6a09486298c0ec95cefa4,Thawing permafrost may unleash industrial pollution across the Arctic,authors,52-54,If these findings are on the conservative end of estimations what is the worst case scenario that we are likely in when it comes to the dangers we might be facing?,0,1,0,0,0,0,0,0,4
+6493455bd22b6bd86908f12d,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,51-54,Why do you think she was put in charge of the border if she had no interest in the assignment?,0,0,0,0,1,1,0,0,4
+64a69ad486298c0ec95cefa3,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,51-54,Why was Harris opposed to her assignment with the border?,0,0,0,0,0,1,0,0,2
+649c9265175f10aaa889c839,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,"50,51",How do we remove these toxic elements before they become a problem?,0,1,0,0,0,0,0,0,4
+6495a0478a1cd336e64c06dd,The meaning behind the far-right symbol Texas shooter wore as he killed 8,authors,50-53,How effective has social media been in spreading and popularizing these extremist symbols and terms?,0,1,0,0,0,0,0,0,6
+649c8f13175f10aaa889c836,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",chatbot,"5, 6, ","Since Harris was assigned by Biden in March 2021, to lead talks with Mexico and the Northern Triangle countries, how has the situation at the US border between Mexico and the US changed?",0,1,0,0,0,0,0,0,3
+6493727e161307e319dc6cdb,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",authors,48-50,Has there been any real opposition from any government officials from allowing the Afghans to be allowed to stay and live in America?,0,1,0,0,0,0,0,0,4
+6495a1348a1cd336e64c06df,Who is George Santos and why is he in trouble?,authors,48-50,What did he spend the stolen $800 on?,1,0,0,0,0,0,0,0,1
+64a6f9d4e6f19adf91d06d91,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,48-50,What has casued her poll numbers to be so low since being elected?,0,0,0,0,0,1,0,0,2
+64913c6d7b94fcb45e539183,Thawing permafrost may unleash industrial pollution across the Arctic,authors,48 49,Who would be responsible for cleaning this up?,1,0,0,0,0,0,0,0,1
+64a77c6b1f2cf98a5f295d23,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",chatbot,48 - 50,Who is speaking in this quote? The article is unclear.,1,0,0,0,0,0,0,0,1
+64a693ad86298c0ec95cefa2,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,46-47,"After the expulsion of Title 42, how many migrants entered the US illegally?",1,0,0,1,0,0,0,0,1
+64a77d4d88be86775400d682,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",chatbot,46-47,"What states are the 18,000 migrant a day entering the country going to?",1,0,0,0,0,0,0,0,2
+64a7eb4b9b3596ed7981eb91,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,46-47,How do the stem cells know to make insulin in the patient?,0,0,0,0,0,1,0,0,2
+64a7a9fc74753de230d81b70,"As Afghan Migrants Are Kept In A Former Dick‚Äôs Sporting Goods, Measles Appears In Northern Virginia",chatbot,46 47,Is it legal to turn away American citizens that need care because a hospital is too  crowded with migrants?,0,0,0,0,0,1,0,0,2
+64a7a9fc74753de230d81b70,"As Afghan Migrants Are Kept In A Former Dick‚Äôs Sporting Goods, Measles Appears In Northern Virginia",chatbot,46 47,What is the name of the hospital that has supposedly been turning away Americans because it is too crowded with Afghans?,1,0,0,0,0,0,0,0,1
+64a693ad86298c0ec95cefa2,"As Afghan Migrants Are Kept In A Former Dick‚Äôs Sporting Goods, Measles Appears In Northern Virginia",authors,45-47,Where is the money taking care of these Afghans coming from?,1,0,0,0,0,0,0,0,1
+64a77b111f2cf98a5f295d1e,"As Afghan Migrants Are Kept In A Former Dick‚Äôs Sporting Goods, Measles Appears In Northern Virginia",chatbot,45-47,Will the government be giving the money spent by Fairfox County on the Afghans back to them?,1,0,0,1,0,0,0,0,2
+64a77b5888be86775400d680,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",chatbot,45 - 47,Was there support for an extension of Title 42 as a way of dealing with the immigration crisis?,0,1,0,0,0,0,0,0,2
+64a77d4d88be86775400d682,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",chatbot,44-46,What is the breakdown of countries where the 234000+ migrants are coming from?,1,0,0,0,0,0,0,0,2
+6495a0478a1cd336e64c06dd,The meaning behind the far-right symbol Texas shooter wore as he killed 8,authors,43-49,"besides the proud boys, what other far right extremist groups have any other groups used the term ""right wing death squad? and if so who?",1,0,0,0,0,0,0,0,1
+64a497eeb4f3637d496d4570,Measles outbreak across US hits 25 year high,chatbot,43-45,What is found in the measles vaccine?,1,0,0,0,0,0,0,0,1
+64a6f9d4e6f19adf91d06d91,Measles outbreak across US hits 25 year high,authors,43-45,"Are there any indications that the MMR vaccine will not only be mandated in Williamsburg, but across the whole country?",0,1,0,0,1,0,0,0,1
+649a824e987eebde923fc065,"As Afghan Migrants Are Kept In A Former Dickâ€™s Sporting Goods, Measles Appears In Northern Virginia",chatbot,43-44,"there seems to be a lack of communication from the federal government about this. what have been the comments, if any, from the federal government about this situation? are they forming a plan to address this crisis?",0,1,0,0,0,0,0,0,2
+64a6a51c86298c0ec95cefa5,Who is George Santos and why is he in trouble?,authors,42-45,"Is admitting to lying an admission to fraud, considering that these subjects were the backbone of his campaign?",0,0,0,1,0,0,0,0,3
+64a7aa0b3a74aa985cb3340d,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",chatbot,42-45,"Why is Jill Biden taking a trip to the more affected areas not visited by Kamala Harris and what is it that she hopes to accomplish in terms of the migrant issue, if anything?",0,0,0,0,0,1,0,0,2
+64a7028435d90f9dd58308b0,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,authors,41-44,When will Vertex receive a wider trial?,1,0,0,0,0,0,0,0,1
+64a4909ab4f3637d496d4567,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,41-42,What kind of computer simulations were used to investigate the impact of climate change?,1,0,0,0,0,0,0,0,1
+64981a5bfc989bfbf1514221,"As Afghan Migrants Are Kept In A Former Dickâ€™s Sporting Goods, Measles Appears In Northern Virginia",chatbot,"40, 41, 42, 43, 44","Who is quoted in the article as saying ""The real problem is the lack of information from the federal government about this topic.""?",1,0,0,0,0,0,0,0,1
+64912a3f77cb3a816838b812,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",authors,40-47,"Can you speculate on why the county is spending a third of a million dollars on this project if it is ""a federal government project,"" as was said by Pat Herrity?",0,0,0,0,1,0,0,0,4
+6493455bd22b6bd86908f12d,Here's where extreme heat could be devastating in coming years,authors,40-41,What specifically can governments do to curb the effects of climate change in these areas?,0,1,0,0,0,0,0,0,3
+64a7a9fc74753de230d81b70,Here's where extreme heat could be devastating in coming years,chatbot,40 41,What are three simple things that governments can do in order to better prepare these more vulnerable nations for heat waves?,0,1,0,0,0,0,0,0,2
+649c8f13175f10aaa889c836,Chile’s desert dumpsite for 60K tons of fast fashion seen from space,chatbot,"4,5",Why are all these clothes being sent to Chile?,0,0,0,0,0,1,0,0,2
+64a696f2e22bbccf37317e29,Renewable energy is here. But how do we store it for the future?,authors,"4,5",What are some of the most promising green energy storage technologies currently under development?,0,1,0,0,0,0,0,0,1
+64a7802288be86775400d683,The meaning behind the far-right symbol Texas shooter wore as he killed 8,chatbot,"4,5",What is Garcia's background?,0,1,0,0,0,0,0,0,1
+64982084fc989bfbf1514222,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,"38, 39",How do you know the low blood sugar count and the rash were not related to the treatment?,0,0,1,0,0,1,0,1,4
+649a843e987eebde923fc066,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,37-40,"What does Vertex think was the blame, specifically, when they stated within the trials that the patients experienced complications which were quite severe?",0,1,0,0,0,0,0,0,4
+64912a3f77cb3a816838b812,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",authors,37-39,"On what did PQR News base their assertion that ""more Afghans than originally thought will be staying and integrating into the county?""",0,0,1,0,0,0,0,1,2
+649c9265175f10aaa889c839,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,"36,37,38,39,40",How do they know this wasn't related to any of the stem cell treatment?,0,0,0,0,0,1,0,0,2
+6495a3d98a1cd336e64c06e0,Who is George Santos and why is he in trouble?,authors,"36,37,38",Has there been any formal charges brought against him since he did say that he lied about his resume?,0,1,0,0,0,0,0,0,3
+6491330f7b94fcb45e539182,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,36-47,"Is there any other way to address migration other than encouraging investment in South American countries, i.e. US programs that tackle worker shortages in the US and establishing a pathway for legal immigration that would ease conflict at our borders?",0,1,0,0,0,0,0,0,4
+6495a1348a1cd336e64c06df,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,authors,36-40,"The article states the health events were not related to VX-880, but how can they prove that?",0,0,1,0,0,0,0,1,6
+64a6294f0114310708d1f579,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,authors,36-40,What were the causes of the low insulin levels in the patients that were not thought to be related to the stem cell therapy?,0,1,0,0,0,1,0,0,4
+64a631732d26908d71ade29f,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,authors,36-40,What makes you think the treatment wasn't causing the health scares?,0,0,0,0,1,1,0,1,2
+649c8ebc175f10aaa889c835,The meaning behind the far-right symbol Texas shooter wore as he killed 8,chatbot,36-38,When did former Proud Boys leader Jeremy Bertino step down?,1,0,0,0,0,0,0,0,1
+649342dfd22b6bd86908f12b,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,"35,36",Do the authors know if the 1.2 billion in pledged investment in the Northern Triangle region represents an increase in normal investment activities for the region over the same time-frame?,0,1,0,0,0,1,0,0,4
+649a824e987eebde923fc065,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",chatbot,35-39,how did it happen that more afghans are staying in the county than originally were anticipated? what caused the increase in the number of afghans on the scene and why was this not anticipated?,0,1,0,0,0,1,0,0,6
+649a82fb6900dc62b912fd3a,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",chatbot,35-39,Exactly how many Afghans have decided to stay and live in the county?,1,0,0,0,0,0,0,0,1
+64a69ad486298c0ec95cefa3,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,35-36,"What companies invested the most in the ""Call to Action""?",1,0,0,0,0,0,0,0,1
+649342dfd22b6bd86908f12b,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",authors,"34,35,36",Were Mississippi and New York statistically found to be outliers in the data or were they closely aligned with other states and varied slightly?,0,0,1,0,0,0,0,1,2
+6491259577cb3a816838b810,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",authors,"34,35",Why did Mississippi have such a large rise in anxiety and depression scores?,0,0,0,0,0,1,0,0,2
+649a85146900dc62b912fd3d,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,34-38,What did the research team find in the Alaskan records?,0,1,0,0,0,0,0,0,2
+64a616ef2d26908d71ade29a,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",authors,34-38,What are the most likely causes that Mississippi and other states saw larger increases in Anxiety than other places such as New York?,0,1,0,0,0,0,0,0,2
+64a6fa3f35d90f9dd58308ae,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",authors,34-38,Are there any known reasons why Mississippi's rates were higher and New York's lower?,0,0,0,0,0,1,0,0,2
+64a69ad486298c0ec95cefa3,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",authors,34-35,What factors led to Mississippi having the largest increases in anxiety and depression?,0,1,0,0,0,0,0,0,2
+649cf28ff9b8fec654033b72,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",chatbot,32-36,"Has the ""Call To Action"" investment had any effect on slowing the immigration rate to the United States?",0,1,0,0,0,0,0,0,2
+649340531a2f52d516451864,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,32-35,"What exactly does the ""Vice Chair of the Partnership for Central America and World Health Organization Global Ambassador"" do in his day to day work?",0,1,0,0,0,0,0,0,2
+64a49107b4f3637d496d4568,Here's where extreme heat could be devastating in coming years,chatbot,31-34,What motivated the research of Mitchell and his colleagues?,0,1,0,0,0,0,0,0,2
+64a618770114310708d1f576,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",authors,"3,4",Who was the senior executive?,1,0,0,0,0,0,0,0,1
+64a696f2e22bbccf37317e29,"As Afghan Migrants Are Kept In A Former Dick‚Äôs Sporting Goods, Measles Appears In Northern Virginia",authors,"3,4",What actions are being taken to address the measles outbreak and to protect the local community?,0,1,0,0,0,0,0,0,1
+649a85116900dc62b912fd3c,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,"29, 30",If half a dose caused a 91 percent decrease in insulin requirements would the full dose allow patients to stop using insulin?,0,1,0,0,0,1,0,0,5
+64a4905d4738f254e8504b02,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",chatbot,29-33,What other states also showed an uptick in axiety during 2020-2021?,1,0,0,0,0,0,0,0,1
+6495b00d92de78df37d95226,Who is George Santos and why is he in trouble?,authors,29-32,Did Santos even go to college?,1,0,0,0,0,0,0,0,1
+6495a52c8a1cd336e64c06e2,Measles outbreak across US hits 25 year high,authors,29-30,Is there a reason/belief as the why New York city has such a large concentration of cases?,0,1,1,0,0,1,0,1,6
+649a9521987eebde923fc06c,Measles outbreak across US hits 25 year high,chatbot,29-30,How many cases were in the Big Apple on Wednesday?,1,0,0,0,0,0,0,0,1
+64a497aeb4f3637d496d456f,The meaning behind the far-right symbol Texas shooter wore as he killed 8,chatbot,29-30,Which members of the Proud Boys wore shirts about Pinochet to rallies?,1,0,0,0,0,0,0,0,1
+64a7028435d90f9dd58308b0,Who is George Santos and why is he in trouble?,authors,29-30,What district does Mr. Santos represent in New York?,1,0,0,0,0,0,0,0,1
+64981eadf67109d07fbb71ad,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,28-30,How effective was Vertex's results with the trial medication?,0,1,0,0,0,0,0,0,2
+64a6294f0114310708d1f579,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,authors,27-30,Do the stem cells have any long term effects on type 1 diabetes in patients?,0,1,0,0,0,0,0,0,2
+64a7028435d90f9dd58308b0,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,authors,27-30,How does the Vertex treatment work?,0,1,0,0,0,0,0,0,2
+64a4909ab4f3637d496d4567,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",chatbot,27-29,What subcontractors are working with the department of defense to help move these migrants?,1,0,0,0,0,0,0,0,1
+64a4a23cb4f3637d496d4571,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",chatbot,27-28,"Are you sure that low income people were at higher risk of depression, they might have already had depression before that, How was it tested to get that result.",0,0,1,0,0,0,0,1,6
+64a69ad486298c0ec95cefa3,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",authors,27-28,Why were low income people more affected by depression during the pandemic?,0,0,0,0,0,1,0,0,2
+64a78d9988be86775400d684,"As Afghan Migrants Are Kept In A Former Dick‚Äôs Sporting Goods, Measles Appears In Northern Virginia",chatbot,27-28,What company did the woman work for that is a subcontractor for the Department of Defense?,1,0,0,0,0,0,0,0,1
+64a7028435d90f9dd58308b0,Here's where extreme heat could be devastating in coming years,authors,26-30,What correlation does population growth have with tempature increase in these regions?,1,0,0,0,0,0,0,0,3
+64a7a9fc74753de230d81b70,Here's where extreme heat could be devastating in coming years,chatbot,26 27,"I know that you have identified regions, but can you list the 5 most vulnerable countries outside of China and India when it comes to dealing with these heat waves and climate change?",1,0,0,0,0,0,0,0,1
+64a6f9e035d90f9dd58308ac,Renewable energy is here. But how do we store it for the future?,authors,25-27,"This may sound naive, but are other countries currently being exploited out of their own resources?",0,1,0,0,0,0,0,0,2
+64a77ba41f2cf98a5f295d20,What COVID Could Look Like One Year From Now,chatbot,25-27,How does Dr. Fauci think the situation will differ in the coming year?,0,1,0,0,0,0,0,0,2
+64a6a51c86298c0ec95cefa5,What COVID Could Look Like One Year From Now,authors,24-28,"Does that mean that it will improve, or worsen? And how?",0,0,0,0,0,1,0,0,2
+64a4a23cb4f3637d496d4571,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",chatbot,24-25,Why did Mississippi have the largest increases in anxiety and depression?,0,0,0,0,0,1,0,0,2
+64a77c6b1f2cf98a5f295d23,What COVID Could Look Like One Year From Now,chatbot,24 - 28,I don't understand the context of what Anthony Fauci says in the last paragraph -- Does he mean that things have improved throughout 2022 and into 2023?,0,0,0,0,0,1,1,0,2
+649a85116900dc62b912fd3c,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,"23,24",Where can I find more information on the methodology in place that was mentioned by Terry Cosby?,1,0,1,0,0,0,0,1,1
+64a7802288be86775400d683,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,"23, 24","How does the VX-880 help, exactly?",0,0,0,0,0,1,0,0,2
+64a6f9e035d90f9dd58308ac,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",authors,23-28,What are the states doing to ensure that each person has access to quality mental health services?,0,1,0,0,0,0,0,0,1
+64a7aa0b3a74aa985cb3340d,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",chatbot,23-28,High income people have access to better care and better mental health care - did this have a real effect in the levels or anxiety and depression or is it just a theory due to these facts about their level of care? I would think that wealthy people would have more worry due to bigger loss of income and possible loss of businesses etc.,0,1,0,0,0,1,0,1,3
+649c8ebc175f10aaa889c835,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,23-26,What was the name of the clinical trial that used stem cells?,1,0,0,0,0,0,0,0,1
+649341841a2f52d516451865,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,23-24,Does the methodology include anything about how money will be distributed to smaller family-owned farms vs large corporate farms?,0,1,0,0,0,0,0,0,4
+64980e7dfc989bfbf1514220,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,23-24,"What is the methodology being referred to, the one that would ensure 'fair allocation of the money'?",1,0,0,0,0,0,0,0,2
+64959e5d8a1cd336e64c06dc,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,23-24,I'm wondering what kind of methodology the USDA uses to make sure that the allocation is fair?,0,1,0,0,0,0,0,0,1
+64959e5d8a1cd336e64c06dc,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,23-24,"Is there any evidence as to the impartiality of the chief of the USDA, such as is this appointed or career-oriented?",0,0,1,0,0,0,0,1,6
+649a843e987eebde923fc066,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,23-24,"Did Terry Cosby imply that the funds would be distributed evenly when he spoke of a ""fair allocation of the money?""",0,0,0,0,1,0,0,0,2
+649a9521987eebde923fc06c,Who is George Santos and why is he in trouble?,chatbot,23-24,Where did George Santos claimed to be educated at?,1,0,0,0,0,0,0,0,1
+649ca0d7913bcc8835d97332,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,23-24,Can you provide more details about the methodology that will be used to distribute the money from the IRA?,0,1,0,0,0,0,0,0,2
+64a6a51c86298c0ec95cefa5,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,23-24,What is the nature of the USDA's methodology to ensure fair allocation of the money? How do they make that determination?,0,1,0,0,0,0,0,0,2
+64a6f9d4e6f19adf91d06d91,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,23-24,"What exactly is the ""extreme progress"" that Kamala Harris has made?",0,0,0,0,0,1,0,0,1
+64a77be41f2cf98a5f295d22,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,23-24,Where do the stem cells originate from?,1,0,0,0,0,0,0,0,2
+64982084fc989bfbf1514222,Renewable energy is here. But how do we store it for the future?,chatbot,"22, 23","You say a country like Africa is one place to mine minerals needed for all this stuff. Who is protesting the workers 
+there from being destroyed by the mining?",1,0,0,0,0,0,0,0,1
+64a495b74738f254e8504b04,What COVID Could Look Like One Year From Now,chatbot,22-3,Can you tell me any more about Erin Kissane's COVID Tracking Project?,0,0,0,0,0,0,1,0,1
+64a4909ab4f3637d496d4567,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",chatbot,22-25,Why was the sporting goods store secretly covered up while trucks moved in to transport migrants?,0,0,0,0,0,1,0,0,2
+649a85146900dc62b912fd3d,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,22-24,"Why is Kimber Miner, a NASA scientist, worried about the thawing permafrost in the Arctic region?",0,0,0,0,0,1,0,0,2
+64a495b74738f254e8504b04,Here's where extreme heat could be devastating in coming years,chatbot,"21, 22","I'm just curious, which areas in central Europe might the article be referring to?",1,0,0,0,0,0,0,0,1
+64a693ad86298c0ec95cefa2,Thawing permafrost may unleash industrial pollution across the Arctic,authors,21-31,"Kimberly Miner warned that thawing of Arctic permafrost could release harmful bacteria and viruses. However, the study by Miner identified industrial installations and threat of industrial contamination. Where did the danger of the release of bacteria and viruses come from?",1,0,0,0,0,1,0,1,2
+649c8ebc175f10aaa889c835,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,21-24,What did Kimberly Miner say was being released because of Arctic thaw?,0,1,0,0,0,0,0,0,2
+6495a52c8a1cd336e64c06e2,Thawing permafrost may unleash industrial pollution across the Arctic,authors,21-24,Has there been any verifiable proof of bacteria/virus existing frozen in the permafrost that could lead to this sort of that or is this a hypothetical possibility?,0,0,1,0,0,0,0,1,6
+6495a53792de78df37d95225,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,21-22,What kind of crops will the farmers be planting for this fund?,1,0,0,0,0,0,0,0,2
+64a497aeb4f3637d496d456f,The meaning behind the far-right symbol Texas shooter wore as he killed 8,chatbot,21-22,Where did the memes glorifying Augusto Pinochet appear?,1,0,0,0,0,0,0,0,1
+649342dfd22b6bd86908f12b,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",authors,"20,21,22",Have the authors looked into any correlation using CDC data between covid cases and rising anxiety in later years of the pandemic?,0,1,1,0,0,0,0,1,1
+649cf28ff9b8fec654033b72,What COVID Could Look Like One Year From Now,chatbot,20-23,What could happen during the holidays that would affect Covid-19 data so much?,0,1,0,0,0,1,0,1,4
+64936329454d8858d00af112,What COVID Could Look Like One Year From Now,authors,20-23,"When talking about the impact of holidays on outbreak data, could you provide further details into how holidays can affect the accuracy and interpretation of the data?",0,1,0,0,0,1,0,1,6
+64a4a23cb4f3637d496d4571,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,20-23,Why would one crop receive more money than another?,0,0,0,0,0,1,0,0,2
+64a6a51c86298c0ec95cefa5,What COVID Could Look Like One Year From Now,authors,20-23,How will the holiday season throw off the data?,0,0,0,0,0,1,0,0,3
+649340531a2f52d516451864,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,20-22,"Have Mastercard, Microsoft, Nespresso and the WEF followed through on their commitments?",0,1,0,0,0,0,0,0,2
+6493455bd22b6bd86908f12d,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",authors,20-22,Are there other factors that could account for these findings?,0,1,0,0,0,0,0,0,1
+64a6f9e035d90f9dd58308ac,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",authors,20-22,"I am curious how the levels of anxiety and depression are now, now that we are out and at the end of the Pandemic.",0,1,0,0,0,0,0,0,1
+64911be877cb3a816838b80e,What COVID Could Look Like One Year From Now,authors,20-21,"What do you mean by the holidays could throw the outbreak data for weeks? I would expect a large increase in cases from the holiday, but from a laymen, I have no idea what you mean by this. Did the holiday cause cases to under counted  somehow while there was a large increase or does it mean something else?",0,0,0,0,0,1,0,1,6
+649341841a2f52d516451865,What COVID Could Look Like One Year From Now,authors,20-21,How long after the holidays is the outbreak data expected to be unreliable?,1,0,0,0,0,0,0,0,2
+64934eeac1ff5e3fc1a87f66,What COVID Could Look Like One Year From Now,authors,20-21,Why do the holidays throw outbreak data off by so much?,0,0,1,0,0,1,0,1,2
+64959e5d8a1cd336e64c06dc,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",authors,20-21,"Why was there an inclusion of the types of stores surrounding the Dick's Sporting Goods, when the entire area is potentially hazardous.?",0,0,0,0,0,1,0,0,6
+64981eadf67109d07fbb71ad,Renewable energy is here. But how do we store it for the future?,chatbot,20-21,What is wrong with using cobalt for batteries?,0,0,0,0,0,1,0,0,4
+64a6f9ee35d90f9dd58308ad,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,authors,20-21,How many units of insulin is normal for a type 1 diabetic to inject per day?,1,0,0,0,0,0,0,0,1
+64a77ba41f2cf98a5f295d20,What COVID Could Look Like One Year From Now,chatbot,20-21,"Exactly, how will the holidays affect the numbers related to Covid?",0,0,0,0,0,1,0,0,2
+64a7b3a674753de230d81b71,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,20-21,"Regarding the person injected 34 units of insulin, how was this all broken up during the day? How often were they doing this and in what amount to reach that 34 units?",0,1,0,0,0,0,0,0,2
+64a7e8ee3562ba51a295b2e8,What COVID Could Look Like One Year From Now,chatbot,20-21,How long will it take for the data to be accurate?,1,0,0,0,0,0,0,0,1
+64a77c6b1f2cf98a5f295d23,What COVID Could Look Like One Year From Now,chatbot,20 - 23,Exactly how did the holidays throw off the data at the end of 2020?,0,0,0,0,0,1,0,1,2
+64912a7d77cb3a816838b813,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,20 - 22,What is the distribution allocations between Big Farm and local/family farms?,0,1,0,0,0,0,0,0,1
+64a6294f0114310708d1f579,Renewable energy is here. But how do we store it for the future?,authors,19-24,What are some of the best material for lithium batteries in terms of the environmental costs and social equity?,0,1,0,0,0,0,0,0,3
+64a7aa0b3a74aa985cb3340d,Renewable energy is here. But how do we store it for the future?,chatbot,19-24,Will ethically sourcing materials from tropical regions eventually turn the eye towards profit from those regions and will large companies eventually exploit those areas as well?,0,0,0,0,1,0,0,0,3
+649a9521987eebde923fc06c,Renewable energy is here. But how do we store it for the future?,chatbot,19-23,What is Serena and Bill believe that is needed to make the battery industry green?,0,1,0,0,0,0,0,0,2
+64911be877cb3a816838b80e,Renewable energy is here. But how do we store it for the future?,authors,19-21,"My first question is what does ethical supply chains have to do with ""green"" batteries? It is said with no explanation, but I do not see what they have to do with each other.",0,1,1,0,0,1,0,1,4
+64912a3f77cb3a816838b812,Renewable energy is here. But how do we store it for the future?,authors,19-20,Have you considered the possibility that the very nature of green energy projects makes ethical supply chains harder to establish?,0,0,0,0,0,1,0,0,4
+6495a52c8a1cd336e64c06e2,Measles outbreak across US hits 25 year high,authors,19-20,Is there a strategy being considered to counter the misinformation en-masse and change the sentiment of vaccines back in sciences favor?,0,1,0,0,0,0,0,0,5
+64a77b5888be86775400d680,Measles outbreak across US hits 25 year high,chatbot,19 - 20,How is the CDC combating misinformation about vaccine safety?,0,1,0,0,0,0,0,0,2
+6491259577cb3a816838b810,"Trump sets off on race for White House, promises to make America 'great and glorious again'",authors,"18,19",What success does Trump feel he achieved while in office?,0,1,0,0,0,0,0,0,2
+649cf28ff9b8fec654033b72,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,"18, 23, 24",How will the government decide to allocate the money to each type of crop covered by the Farm Bill>,0,1,0,0,0,0,0,0,2
+64982084fc989bfbf1514222,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,"18, 19",What is the redirect America to the successful path it was on before Biden that Trump mentioned?,0,1,0,0,0,0,0,0,2
+64a7802288be86775400d683,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,"18, 19",Can we prevent losing 65% of the permafrost?,0,0,0,0,1,0,0,0,2
+649cabb2913bcc8835d97334,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,18-22,"Has there been any follow up reporting on concerns that the funds could be distributed unevenly besides Terry Cosby's statement, or that they would target specific crops?",0,1,0,0,0,0,0,0,6
+64a6a09486298c0ec95cefa4,Thawing permafrost may unleash industrial pollution across the Arctic,authors,18-20,Why is the Arctic warming so much faster than the rest of the planet since the entire planet should be affected by climate change?,0,0,0,0,0,1,0,0,4
+64912a3f77cb3a816838b812,"Trump sets off on race for White House, promises to make America 'great and glorious again'",authors,18-19,You said that Trump talked about redirecting America to the path it was on before Biden's election in 2020; how did the crowd react to that?,0,1,0,0,0,0,0,0,2
+649a85146900dc62b912fd3d,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",chatbot,18-19,Why is fact checking so important in major news networks?,0,0,0,0,0,1,0,0,2
+649a82fb6900dc62b912fd3a,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,18-19,What exact concerns have Republicans expressed over the funds being too narrowly tailored or being distributed unevenly?,0,1,0,0,0,0,0,0,2
+649a91b8987eebde923fc06b,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,18-19,Was America actually successful when Trump was in office?,0,0,0,0,1,0,0,0,2
+64a4909ab4f3637d496d4567,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,18-19,What studies show that the artic is warming this fast as a result of climate change?,1,0,0,0,0,0,0,0,1
+64a49107b4f3637d496d4568,Here's where extreme heat could be devastating in coming years,chatbot,18-19,What are two resources these populations may lack?,1,0,0,0,0,0,0,0,1
+64a4a23cb4f3637d496d4571,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,18-19,Why are the Republicans worried about being unevenly dispersed.,0,0,0,0,0,1,0,0,2
+64a6294f0114310708d1f579,"Trump sets off on race for White House, promises to make America 'great and glorious again'",authors,18-19,"How does Donald Trump think that he can win the presidency, after being defeated in his last presidential election attempt?",0,0,0,0,1,1,0,0,4
+64a6a51c86298c0ec95cefa5,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,18-19,What concerns have Republican politicians expressed? I would like more detail about the objections to the funds.,0,1,0,0,0,0,0,0,2
+64a6fa3f35d90f9dd58308ae,Here's where extreme heat could be devastating in coming years,authors,18-19,Doesn't air conditioning ultimately contribute to more global warming?,0,0,0,1,0,1,0,1,3
+64a77ba41f2cf98a5f295d20,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,18-19,In what way do some Republicans believe the funds will be unevenly distributed?,0,0,0,0,0,1,0,0,2
+64a77d4d88be86775400d682,What COVID Could Look Like One Year From Now,chatbot,18-19,What would cause a repeat vaccination campaign to be necessary?,0,1,0,0,1,0,0,0,2
+64a693ad86298c0ec95cefa2,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,17-22,What are the results of the Call to Action? Has it been successful? Has there been any impacts to migration?,0,1,0,0,1,1,0,0,2
+649a843e987eebde923fc066,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",chatbot,17-20,How do the management officials at these news network plan to force their top talent anchors into fact checking everything they say while on the air?,0,1,0,0,0,1,0,0,5
+6491330f7b94fcb45e539182,What COVID Could Look Like One Year From Now,authors,17-19,"You talk of repeat vaccination...but where is the data on natural immunity and where is the data on repeat vaccinations using a relatively new and unknow vaccine?
+",0,0,1,0,0,0,0,1,2
+64980e7dfc989bfbf1514220,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",chatbot,17-19,Why would the author imagine this has something to do with the veracity of what's being said on the air when the entire article only details allegations that the people referenced engaged in inappropriate conduct behind the scenes?,0,0,0,0,0,1,0,1,6
+64a497eeb4f3637d496d4570,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",chatbot,17-19,How can we know that the fact checkers aren't biased?,0,1,0,0,0,0,0,0,2
+64a78d9988be86775400d684,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",chatbot,17-19,How much false information has been aired on Fox and CNN?,0,1,0,0,0,0,0,0,1
+64959e5d8a1cd336e64c06dc,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",authors,17-18,I'm curious what areas of the government and who specifically has been contacted? Since there is repeated references to no response from the government.,0,0,1,0,0,0,0,1,2
+64a495a6b4f3637d496d456b,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",chatbot,"16,17,18",Weren't Carlson and Lemon fired more for their opinions since they aren't traditional news programs that focus on hard news?,0,0,0,0,0,1,0,1,5
+6491259577cb3a816838b810,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,"16,17","How many farmers have been asked their opinions about this funding?
+",1,0,0,0,0,0,0,0,1
+6495a52c8a1cd336e64c06e2,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",authors,16-20,There is a general distrust by many about the neutrality of new sources so are these dismissals considered a step towards legitimacy or do the broadcast companies plan to replace them with equally biased on screen talent?,0,1,0,0,1,0,0,0,6
+64a497eeb4f3637d496d4570,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",chatbot,16-20,"Isn't there a lot of evidence that this is more about censorship, and if so, what is the evidence?",0,0,1,0,0,1,0,1,5
+64a71f427bbf7eb5083f6728,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",authors,16-20,Will the networks make sure to fact check and check any anchor exaggerating the truth.,0,0,0,1,1,0,0,0,2
+6495a0478a1cd336e64c06dd,Measles outbreak across US hits 25 year high,authors,16-19,what measures are being taken to address the spread of misinformation about vaccines?,0,1,0,0,0,0,0,0,1
+64912a3f77cb3a816838b812,Renewable energy is here. But how do we store it for the future?,authors,16-18,"Serena, what is YOUR answer to that question?",0,0,0,0,1,0,1,0,2
+649127b977cb3a816838b811,Thawing permafrost may unleash industrial pollution across the Arctic,authors,"16-17, 22-24",Is the amount of known or predicted radioactive waste enough to be of serious concern outside their immediate areas if released?,0,1,0,0,0,1,0,0,2
+64980e7dfc989bfbf1514220,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,16-17,Has there been an independent poll of some kind gauging the opinions of farmers on the issue rather than a statement from a politician?,0,0,1,0,0,0,0,1,3
+6495a1348a1cd336e64c06df,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,16-17,Which Republican politicians are complaining about the act?,1,0,0,0,0,0,0,0,1
+6495a1348a1cd336e64c06df,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,16-17,Are there any actual complaints from farmers about this act?,0,1,0,0,0,0,0,0,1
+64981eadf67109d07fbb71ad,Renewable energy is here. But how do we store it for the future?,chatbot,16-17,How do we generate energy when there is no sun for the solar panels?,0,1,0,0,0,0,0,0,4
+649a843e987eebde923fc066,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,16-17,What manners of life-threatening situations or manners of death will patients experience if they do not inject their insulin in time?,0,1,0,0,0,0,0,0,4
+64a696f2e22bbccf37317e29,"Trump sets off on race for White House, promises to make America 'great and glorious again'",authors,"15,16,17",Why are Trump's former campaign aides concerned about his early announcement and what impact would the poor midterm results have on Trump's ability to win?,0,1,0,0,0,1,0,0,2
+64a7aa0b3a74aa985cb3340d,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",chatbot,"15-19, 34-38","Did states with lower rates of infection, death and hospitalization have overall lower numbers in the same period of August to December 2020? In other words, is there a direct correlation to the levels of illness to the level of depression/anxiety whether high or low?",0,1,0,0,0,1,0,0,2
+64a6fa3f35d90f9dd58308ae,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",authors,15-19,"Was the political state of the US considered in any of this, because August 2020-January 21 included a very tense political situation on top of Covid, or were people directly asked about covid specifically and how it affects their anxiety/depression?",0,1,0,0,0,1,0,0,5
+6493727e161307e319dc6cdb,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",authors,15-18,"Does the US government usually test people for diseases prior to allowing them in the country, and if not, why not?",0,1,0,0,0,1,0,0,4
+649ca0d7913bcc8835d97332,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",chatbot,15-18,What will the immigration process be like for the Afghan migrants?,0,1,0,0,0,0,0,0,2
+64911be877cb3a816838b80e,"Trump sets off on race for White House, promises to make America 'great and glorious again'",authors,15-17,What had the former aides and inner circle members had said that made it so Trump had defied them? Had any of them explicitly said or asked Trump not to run for President a third time?,0,1,0,0,0,0,0,0,2
+649a91b8987eebde923fc06b,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,15-17,Why did they want him to wait to make his announcement until after the Dec. 6 Senate runoff in Georgia?,0,0,0,0,0,1,0,0,2
+649a82fb6900dc62b912fd3a,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,15-17,How did his former campaign aides and his inner circle react when he did not wait on his 2024 announcement like they would have preferred?,0,1,0,0,0,0,0,0,3
+649340531a2f52d516451864,What COVID Could Look Like One Year From Now,authors,15-16,How would we get lasting protection out of the shots?,0,1,0,0,0,0,0,0,2
+64980e7dfc989bfbf1514220,What COVID Could Look Like One Year From Now,chatbot,15-16,How could durable protection possibly be 'finagled' out of current shots?,0,0,0,0,0,1,0,0,2
+64a7a9fc74753de230d81b70,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,15 16 17,Who are these former campaign aides and inner circle members that Trump deified when making this early announcement to run again?,1,0,0,0,0,0,0,0,1
+649a85116900dc62b912fd3c,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,"14, 15",What is the process to for farmers to apply for funding,1,0,0,0,0,0,0,0,1
+649cf28ff9b8fec654033b72,What COVID Could Look Like One Year From Now,chatbot,14-19,Will yearly vaccines for Covid-19 be required going forward?,0,0,0,1,0,0,0,0,1
+64a77be41f2cf98a5f295d22,Here's where extreme heat could be devastating in coming years,chatbot,14-16,"Are these new climate and weather prediction models, or have they been used previously?",1,0,0,0,0,0,0,0,2
+64911be877cb3a816838b80e,What COVID Could Look Like One Year From Now,authors,14-15,What do you think the effect of having multiple COVID Vaccine boosters will have on people's perception of the COVID vaccine and vaccines in general? Do you expect vaccine hesitancy and skepticism to grow off the back of this?,0,1,0,0,1,0,0,0,5
+649127b977cb3a816838b811,Who is George Santos and why is he in trouble?,authors,14-15,"What are the typical penalties for the amount of charges and type of crimes he is being charged with in New York, and are there any federal penalties as well?",0,1,0,0,0,0,0,0,2
+649341841a2f52d516451865,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,14-15,Would farmers have to apply for the money or would it be automatically distributed?,0,1,0,0,0,0,0,0,2
+64a6f9e035d90f9dd58308ac,Who is George Santos and why is he in trouble?,authors,14-15,When is George Santos' court date for his 13-count indictment?,1,0,0,0,0,0,0,0,1
+64a77d4d88be86775400d682,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,14-15,In what way is the amount of funding for each farmer determined?,0,1,0,0,0,0,0,0,2
+64a7eb4b9b3596ed7981eb91,Renewable energy is here. But how do we store it for the future?,chatbot,14-15,Are alternative storage solutions to lithium-ion batteries in use and/or in production?,0,0,0,1,0,0,0,0,1
+64a495b74738f254e8504b04,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,"13, 14",Can you tell me any more about Trump's offer for disaffected Democrats to join his movement?,0,0,0,0,0,0,1,0,1
+64a7aa0b3a74aa985cb3340d,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",chatbot,13-22,"Are there any real solutions, other than investment in the Northern Triangle, to stem the flow of migrants to the border and have any been announced publicly other than the end of Title 42?",0,0,0,0,1,0,0,0,2
+649a9521987eebde923fc06c,Who is George Santos and why is he in trouble?,chatbot,13-15,How many counts of indictment is George Santos facing in New York?,1,0,0,0,0,0,0,0,1
+6495b00d92de78df37d95226,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,13-15,What have farmers directly said about this proposal to neutral participants? How do we really know that Podesta's claim about them not having any complaints is really true?,0,1,1,0,0,0,0,1,6
+649a82fb6900dc62b912fd3a,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,13-15,Exactly how many farmers have been in contact with the White House and expressed support over the climate-friendly funds?,1,0,0,0,0,0,0,0,1
+64a49107b4f3637d496d4568,The meaning behind the far-right symbol Texas shooter wore as he killed 8,chatbot,13-15,What does the RWDS acronym originally refer to?,1,0,0,0,0,0,0,0,1
+64a4909ab4f3637d496d4567,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,13-14,Why is Donald Trump trying to get Democrats to join his movement?,0,0,0,0,0,1,0,0,2
+64a77b111f2cf98a5f295d1e,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,13-14,"What does Trump mean by the term ""disaffected Democrats""?",0,1,0,0,0,0,0,0,2
+64a77be41f2cf98a5f295d22,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,13-14,How many disaffected democrats are likely to vote for the republican candidate in the next presidential election?,1,0,0,0,0,0,0,0,1
+64912a7d77cb3a816838b813,Who is George Santos and why is he in trouble?,authors,"1,9, 62, 63",How could such a corrupt person rise in politics to such a high level without ever being discovered?,0,0,0,0,1,0,0,0,4
+6491259577cb3a816838b810,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,"1,2",Will any money go directly to farmers?,0,1,0,0,0,0,0,0,1
+6491259577cb3a816838b810,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",authors,19-Dec,Through what platform was the survey administered?,1,0,0,0,0,0,0,0,1
+64981eadf67109d07fbb71ad,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,14-Dec,Why is insulin so important?,0,0,0,0,0,1,0,0,1
+649341841a2f52d516451865,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",authors,13-Dec,What was Hadley Gamble's position at CNBC and is she still working there?,1,0,0,0,0,0,0,0,2
+6493727e161307e319dc6cdb,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,14-Nov,"Are there any farmers that are against what Biden is fighting for in reference to giving financial help to climate friendly farms, and if so, why?",0,1,0,0,0,1,0,0,5
+64980afaf67109d07fbb71a8,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",chatbot,13-Nov,What was that inappropriate relationship like?,0,1,0,0,0,0,0,0,1
+649a9521987eebde923fc06c,Measles outbreak across US hits 25 year high,chatbot,12-Nov,Where are the biggest outbreaks centered at?,1,0,0,0,0,0,0,0,2
+649a85146900dc62b912fd3d,Measles outbreak across US hits 25 year high,chatbot,12-Nov,Why did the ultra-Orthodox Jewish community in Brooklyn get the biggest measles outbreak?,0,0,0,0,0,1,0,0,2
+649cabb2913bcc8835d97334,What COVID Could Look Like One Year From Now,chatbot,12-Nov,Are any major cities wanting to go back to the style of lockdowns that occurred when the pandemic first started?,1,0,0,0,0,0,0,0,1
+64934528d22b6bd86908f12c,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",authors,13-Oct,Did the recent sale of CNN have anything to do with the firing of Don Lemon?,0,0,0,0,0,1,0,0,4
+649ca0d7913bcc8835d97332,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",chatbot,13-Oct,What types of controversies was Don Lemon involved in aside from the inappropriate relationship?,0,1,0,0,0,0,0,0,2
+64936329454d8858d00af112,What COVID Could Look Like One Year From Now,authors,13-Oct,"Can you tell me more about what exactly is meant by a ""soft lockdown"" and what specific measures or restrictions are being put in place? How does this differ from the shutdown that was implemented back in March 2020?",0,1,0,0,0,1,0,1,6
+64a495b74738f254e8504b04,What COVID Could Look Like One Year From Now,chatbot,13-Oct,I'd like to read more of what Sarah Zhang wrote about Omicron in 2021. Can you help?,0,0,0,0,0,0,1,0,1
+64a77d4d88be86775400d682,What COVID Could Look Like One Year From Now,chatbot,13-Oct,What are some examples of a soft lock down and how do they differ from the lock down in March of 2020?,0,1,0,0,0,1,0,0,2
+649341841a2f52d516451865,What COVID Could Look Like One Year From Now,authors,12-Oct,How is the response to Omicron differing around the country?,0,1,0,0,0,1,0,0,2
+649a824e987eebde923fc065,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",chatbot,12-Oct,"not surprisingly, the Biden administration is blaming the trump administration for the problems. has the former president had any comment?",0,1,0,0,0,0,0,0,2
+649341841a2f52d516451865,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",authors,11-Oct,What kind of controversy was Lemon facing before his firing?,0,1,0,0,0,0,0,0,2
+649cabb2913bcc8835d97334,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",chatbot,11-Oct,What was the controversy that Don Lemon was bogged down by in the weeks prior to his firing?,0,1,0,0,0,0,0,0,2
+6495a0478a1cd336e64c06dd,Renewable energy is here. But how do we store it for the future?,authors,"10, 11",do you see any specific challenges to adopting ammonia as a fuel? or maybe any oppurtunities?,0,0,0,0,1,0,0,0,5
+6495b00d92de78df37d95226,What COVID Could Look Like One Year From Now,authors,11-Oct,Is the risk profile of Omnicron significant enough to warrant soft lockdowns?,0,0,0,0,0,1,0,0,5
+64a6294f0114310708d1f579,Renewable energy is here. But how do we store it for the future?,authors,11-Oct,"What are the benefits of combustion engines that run on ammonia, compared to other renewable fuels like hydrogen in cars?",0,1,0,0,0,0,0,0,2
+64a77ba41f2cf98a5f295d20,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,11-Oct,"What kind of support, specifically, does he want from working class people?",0,1,0,0,0,0,0,0,2
+64a78d9988be86775400d684,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",chatbot,11-Oct,What was the Don Lemon controversy?,1,1,0,0,0,0,0,0,1
+64a7aa0b3a74aa985cb3340d,Renewable energy is here. But how do we store it for the future?,chatbot,11-Oct,Is Sunborne Systems looking into any other source of fuel/power for combustion engines other than ammonia?,1,0,0,1,0,0,0,0,1
+649a82fb6900dc62b912fd3a,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",chatbot,14-Sep,What is the current health status of the five Afghan migrants that were diagnosed with measles?,0,1,0,0,0,0,0,0,3
+64a6a09486298c0ec95cefa4,"As Afghan Migrants Are Kept In A Former Dick‚Äôs Sporting Goods, Measles Appears In Northern Virginia",authors,11-Sep,Did the migrants catch the measles after coming to the US or did they likely bring it from Afghanistan?,0,0,0,1,0,0,0,0,2
+64a69ad486298c0ec95cefa3,Chile‚Äôs desert dumpsite for 60K tons of fast fashion seen from space,authors,10-Sep,Why aren't there regulations regarding synthetic fibers?,0,0,0,0,0,1,0,0,2
+64a4a23cb4f3637d496d4571,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",chatbot,12-Aug,"Did Biden think that countries like Honduras, Guatemala and El Salvador would take a woman seriously enough to solve problems?",0,0,0,0,1,0,0,0,2
+64a77b5888be86775400d680,Measles outbreak across US hits 25 year high,chatbot,12-Aug,How have Orthodox Jewish leaders responded to the issue of vaccination refusal and measles outbreaks in New York and New Jersey?,0,1,0,0,0,0,0,0,2
+649a9521987eebde923fc06c,Renewable energy is here. But how do we store it for the future?,chatbot,11-Aug,What is Bill David doing to address the energy shortage?,0,1,0,0,0,0,0,0,3
+64982084fc989bfbf1514222,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,"8, 9",What are the issues that Trump wants to build a better America?,0,1,0,0,0,0,0,0,1
+649a82fb6900dc62b912fd3a,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,9-Aug,"What exact definition has Trump given for the issues, vision and success for him in his movement to restore America?",0,1,0,0,0,0,0,0,2
+64a4909ab4f3637d496d4567,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,9-Aug,What kind of issues is Donald Trump looking to address?,0,1,0,0,0,0,0,0,2
+64a631732d26908d71ade29f,"Trump sets off on race for White House, promises to make America 'great and glorious again'",authors,9-Aug,"What are the issues, visions and success he is speaking of?",0,1,0,0,0,0,0,0,2
+64a71f427bbf7eb5083f6728,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",authors,9-Aug,What controversies led up to Don's firing?,1,1,0,0,0,0,0,0,2
+64a7a9fc74753de230d81b70,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,8 9,"Did Mr Trump elaborate on what these issues, visions and successes are or will be that help restore America?",0,1,0,0,0,0,0,0,2
+64a7b3a674753de230d81b71,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,9-Aug,"Regarding what he plans on doing to solve the country's issues, does he have more specific explanations in mind?",0,1,0,0,0,0,0,0,2
+64a7e8ee3562ba51a295b2e8,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,9-Aug,What is Trump's vision for America?,0,1,0,0,0,0,0,0,2
+6493455bd22b6bd86908f12d,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",authors,10-Jul,Is the baseline for depression changing or can it be expected to go down to pre-covid levels if covid cases are dramatically reduced?,0,1,0,0,0,1,0,1,4
+64a7028435d90f9dd58308b0,Here's where extreme heat could be devastating in coming years,authors,10-Jul,What was the average temperature increase in the regions examined for the study?,1,0,0,0,0,0,0,0,1
+64a77ba41f2cf98a5f295d20,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,8-Jul,"Some Republicans want to reallocate some of the money, where do they want to go/how do they want it to be used?",1,0,0,0,0,1,0,0,2
+64a77d4d88be86775400d682,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,8-Jul,What are some examples of reallocating funds which Republicans expressed concern over?,0,1,0,0,0,0,0,0,1
+64a78d9988be86775400d684,"As Afghan Migrants Are Kept In A Former Dick‚Äôs Sporting Goods, Measles Appears In Northern Virginia",chatbot,8-Jul,Why would people who went to a Crowne Plaza Hotel have been exposed?,0,1,0,0,0,0,0,0,2
+649c8ebc175f10aaa889c835,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,10-Jun,How many Americans currently live with Type 1 Diabetes?,1,0,0,0,0,0,0,0,1
+64a77be41f2cf98a5f295d22,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,10-Jun,What age ranges are the other 1.4 million Americans in who have it?,0,1,0,0,0,0,0,0,2
+649cabb2913bcc8835d97334,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,8-Jun,Where are Republicans considering reallocating the funds to?,1,0,0,0,0,0,0,0,1
+6495a0478a1cd336e64c06dd,Measles outbreak across US hits 25 year high,authors,7-Jun,Are there any specific age groups or demographics that are particularly vulnerable to measles infection?,1,0,0,0,0,0,0,0,1
+64980e7dfc989bfbf1514220,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",chatbot,7-Jun,"What are the actual details behind the allegations of how Carlson fomented a 'misogynistic, toxic work environment,' ie, what did he actually do?",0,1,0,0,0,0,0,0,2
+64a693ad86298c0ec95cefa2,"As Afghan Migrants Are Kept In A Former Dick‚Äôs Sporting Goods, Measles Appears In Northern Virginia",authors,14-May,Has there been any non Afghans who contracted measles after being exposed?,1,0,0,1,0,0,0,0,1
+6495a52c8a1cd336e64c06e2,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",authors,9-May,"If Mr.Carlson had been fostering such a work environment and it was known, why did it take so long for fox to take the appropriate action?",0,0,0,0,0,1,0,0,4
+64980afaf67109d07fbb71a8,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",chatbot,7-May,What did Tucker Carlson do that was considered misogynistic?,0,1,0,0,0,0,0,0,1
+649a843e987eebde923fc066,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",chatbot,7-May,What kind of toxic environment specifically do employees claim that Tucker Carlson was creating within the workplace?,0,1,0,0,0,0,0,0,3
+649ca0d7913bcc8835d97332,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",chatbot,7-May,Has the lawsuit that Carlson is involved in come to a conclusion?,0,1,0,1,0,0,0,0,1
+64a4a23cb4f3637d496d4571,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",chatbot,7-May,Why would Biden put Harris in charge of getting stuff done?,0,0,0,0,0,1,0,0,2
+64a77b5888be86775400d680,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",chatbot,7-May,"What percentage of immigrants to the US come from the Northern Triangle countries, and how has this figure changed over the years?",1,0,0,0,0,0,0,0,2
+64981eadf67109d07fbb71ad,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",chatbot,6-May,What are the Northern Triangle countries and what makes them so important?,1,0,0,0,0,1,0,0,2
+6495b00d92de78df37d95226,What COVID Could Look Like One Year From Now,authors,6-May,What are potential concerning features of the Omnicron strain?,0,1,0,0,0,0,0,0,2
+649cabb2913bcc8835d97334,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",chatbot,6-May,Are there any other lawsuits that could have played a part in Tucker Carlson's ouster from the network?,1,0,0,0,0,0,0,0,1
+64a69ad486298c0ec95cefa3,Chile‚Äôs desert dumpsite for 60K tons of fast fashion seen from space,authors,6-May,Why are they importing so many clothes?,0,0,0,0,0,1,0,0,2
+649c8ebc175f10aaa889c835,The meaning behind the far-right symbol Texas shooter wore as he killed 8,chatbot,9-Apr,Which Russian social networking site did Mauricio Garcia use to post far right related material?,1,0,0,0,0,0,0,0,1
+64a6a09486298c0ec95cefa4,The meaning behind the far-right symbol Texas shooter wore as he killed 8,authors,9-Apr,What was the fate of the shooter?  Was he arrested or killed or what? I think that's important information that was left out.,0,1,0,1,0,0,0,0,1
+649c8ebc175f10aaa889c835,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,6-Apr,What kind of pollutants could be released near industrial facilities?,1,0,0,0,0,0,0,0,1
+64936329454d8858d00af112,Chile’s desert dumpsite for 60K tons of fast fashion seen from space,authors,6-Apr,"Can you give me more info about where the discarded clothes come from and where they end up? I'm curious to know which countries in the US, Europe, and Asia are responsible for the 59,000 tons of used and unsold clothing that reaches Chile's Iquique port every year.",0,1,0,0,0,0,0,0,5
+649a843e987eebde923fc066,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,5-Apr,What exactly is the nature of this carbon-sequestering practice that is spoken of being funded in the article?,0,1,0,0,0,0,0,0,2
+649ca0d7913bcc8835d97332,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,5-Apr,What types of carbon-sequestering practices will be used?,1,0,0,0,0,0,0,0,1
+64a77c6b1f2cf98a5f295d23,Here's where extreme heat could be devastating in coming years,chatbot,6-Mar,"Has this kind of climate changed impacted areas with similar heat waves and socioeconomic issues in the past and, if so, how did this play out before?",0,1,0,0,0,1,0,0,3
+64980afaf67109d07fbb71a8,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,5-Mar,Could this treatment be available for newly diagnosed people?,0,0,0,1,0,0,0,0,1
+64a6f9ee35d90f9dd58308ad,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,authors,5-Mar,How is a trial centered on 1 patient statistically significant at all?,0,0,1,0,0,1,0,1,2
+649ca0d7913bcc8835d97332,"As Afghan Migrants Are Kept In A Former Dickâ€™s Sporting Goods, Measles Appears In Northern Virginia",chatbot,4-Mar,Why were migrants housed in abandoned stores rather than locations with more appropriate amenities?,0,0,0,0,0,1,0,0,2
+6495a1348a1cd336e64c06df,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,authors,4-Mar,Why was the trial only centered around one patient and not more?,0,0,0,0,0,1,0,0,4
+649a824e987eebde923fc065,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",chatbot,4-Feb,"the article says that the situation is ""barely appearing on harris' schedule."" Was that a confirmed fact; meaning, is it really true that it was hardly on her schedule?",0,0,1,0,0,0,0,1,2
+64980e7dfc989bfbf1514220,What COVID Could Look Like One Year From Now,chatbot,4-Feb,"Is this average of 300,000 cases a day based on confirmed cases, or estimates of all the undiagnosed cases that might be out there?",0,1,0,0,0,0,0,0,6
+64a495b74738f254e8504b04,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,4-Feb,How many people were present when Trump made his announcement?,1,0,0,0,0,0,0,0,1
+6495a53792de78df37d95225,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",authors,3-Feb,What did the private text show that caused the top brass to be disturbed other than calling the senior fox executive the c-word?,0,1,0,0,0,0,0,0,2
+649cabb2913bcc8835d97334,What COVID Could Look Like One Year From Now,chatbot,3-Feb,"Are vaccination rates going up, or going down, in regards to the average new cases per day?",0,0,0,1,0,0,0,0,1
+649a91b8987eebde923fc06b,Here's where extreme heat could be devastating in coming years,chatbot,31-Jan,Has the Pacific Northwest learned anything from the heatwave of 2021 and have they done anything to prepare for another?,0,1,0,0,0,0,0,0,2
+649c9179208897eb1ff7d9ee,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,22-Jan,Where does the USDA plan to allocate the money?,1,0,0,0,0,0,0,0,1
+64980d5df67109d07fbb71ab,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,17-Jan,Which Republicans expressed concerns that the funds are too narrowly tailored?,1,0,0,0,0,0,0,0,1
+64a77b5888be86775400d680,Chile‚Äôs desert dumpsite for 60K tons of fast fashion seen from space,chatbot,"1, 15","What are some of the major brands in the fast fashion market, and how have they responded to this eco crisis?",1,0,0,0,0,1,0,0,2
+64980d5df67109d07fbb71ab,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",chatbot,11-Jan,What was the demographics/makeup of the 1.5 million responses?,1,0,0,0,0,0,0,0,1
+6493727e161307e319dc6cdb,Who is George Santos and why is he in trouble?,authors,8-Jan,"Does George Santos have any plans to run for president in the future, and if so, are there any efforts being made to make sure that he is ineligible to run due to his criminal activities?",0,1,0,0,1,0,0,0,5
+64a623b82d26908d71ade29d,"As Afghan Migrants Are Kept In A Former Dick‚Äôs Sporting Goods, Measles Appears In Northern Virginia",authors,5-Jan,Why weren't they checked for their vaccine status before being let in?,0,0,0,0,0,1,0,0,2
+64a623b82d26908d71ade29d,"As Afghan Migrants Are Kept In A Former Dick‚Äôs Sporting Goods, Measles Appears In Northern Virginia",authors,5-Jan,"If any Americans catch measles due to the governments decision to bring in unvaccinated people, can they sue?",0,1,0,1,0,0,0,0,3
+649820ccf67109d07fbb71ae,"As Afghan Migrants Are Kept In A Former Dickâ€™s Sporting Goods, Measles Appears In Northern Virginia",chatbot,4-Jan,How many Afghans were held at the Dick's Sporting Goods locations?,1,0,0,0,0,0,0,0,1
+64934eeac1ff5e3fc1a87f66,What COVID Could Look Like One Year From Now,authors,3-Jan,How do the case numbers in the final week of 2021 compare to the earlier and 2021 and 2020?,1,0,0,0,0,0,0,0,4
+64a6294f0114310708d1f579,"Trump sets off on race for White House, promises to make America 'great and glorious again'",authors,3-Jan,Who will Donald Trump run against in the upcoming election?,1,0,0,1,0,0,0,0,1
+64a77b5888be86775400d680,Chile‚Äôs desert dumpsite for 60K tons of fast fashion seen from space,chatbot,3-Jan,Why is Chile a top destination for discarded clothing?,0,0,0,0,0,1,0,0,2
+64982084fc989bfbf1514222,Renewable energy is here. But how do we store it for the future?,chatbot,2-Jan,"Can you really, honestly store that energy in a safe way without destroying the earth in the process?",0,0,1,0,0,1,0,1,2
+64a77be41f2cf98a5f295d22,Here's where extreme heat could be devastating in coming years,chatbot,2-Jan,How likely is the US to have record-breaking heat waves compared to the most likely locations?,1,0,0,0,0,0,0,0,2
+649cf28ff9b8fec654033b72,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,"1, 2, 2003",Is the 430 billion in this farm bill larger than the previous farm bills?,0,0,0,1,0,0,0,0,1
+64980c47f67109d07fbb71a9,The meaning behind the far-right symbol Texas shooter wore as he killed 8,chatbot,65,What race is the former Proud Boy leader Tarrio?,1,0,0,0,0,0,0,0,1
+64913c6d7b94fcb45e539183,Who is George Santos and why is he in trouble?,authors,62,Will Santos ever be removed from Congress?,0,0,0,0,1,0,0,0,3
+6495b00d92de78df37d95226,Who is George Santos and why is he in trouble?,authors,61,Have any Republican primary candidates for his district shown any interest in challenging him?,0,1,0,0,0,0,0,0,5
+649342dfd22b6bd86908f12b,Thawing permafrost may unleash industrial pollution across the Arctic,authors,58,Are there any governmental actions in progress to develop rules and regulations to manage these hazardous sites at risk from climate change?,0,1,0,0,0,0,0,0,3
+649c9265175f10aaa889c839,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,58,Why isn't it required to have documentation on what is being done?,0,0,0,0,0,1,0,0,2
+64a618770114310708d1f576,Thawing permafrost may unleash industrial pollution across the Arctic,authors,24-Feb,What are these temperatures in farenheight?,1,0,0,0,0,0,0,0,1
+64934528d22b6bd86908f12c,Thawing permafrost may unleash industrial pollution across the Arctic,authors,50,What methods are there to keep pollutants stabilized?,0,1,0,0,0,0,0,0,2
+64a7802288be86775400d683,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,50,How do we keep pollutants where they need to be?,0,0,0,0,1,0,0,0,2
+64912a7d77cb3a816838b813,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,authors,49,What other break throughs has Harvard Stem Cell Institute discovered that are promising?,0,1,0,0,0,0,0,0,1
+6495ac1f8a1cd336e64c06e4,The meaning behind the far-right symbol Texas shooter wore as he killed 8,authors,49,Does Facebook banning the groups with RWDS only make them more popular with extremist?,0,0,0,0,1,0,0,0,4
+64a632990114310708d1f57a,"As Afghan Migrants Are Kept In A Former Dick‚Äôs Sporting Goods, Measles Appears In Northern Virginia",authors,49,What did they eventually say about this situation? because people getting a disease and seemingly being forgotten when brought into out territory seems pretty crazy,0,1,0,0,0,0,0,0,2
+64a71f427bbf7eb5083f6728,"As Afghan Migrants Are Kept In A Former Dick‚Äôs Sporting Goods, Measles Appears In Northern Virginia",authors,47,"What hospitals are turning away Americans, due to Afghans?",1,0,0,1,0,0,0,0,1
+64980c47f67109d07fbb71a9,The meaning behind the far-right symbol Texas shooter wore as he killed 8,chatbot,46,"In August 2017, what event turned the rally in Charlottesville to turn deadly?",1,0,0,0,0,0,0,0,2
+64a495bbb4f3637d496d456c,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",chatbot,46,At which hospital in Fairfax County were Americans being turned away because the hospital was overcrowded with Afghans?,1,0,0,0,0,0,0,0,1
+6491330f7b94fcb45e539182,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,45,What specific goals does the Administration seek to meet in regards to number of border encounters?,0,1,0,0,0,0,0,0,1
+64934eeac1ff5e3fc1a87f66,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,45,How does the 234000+ migrant encounters in April compare to recent months?,1,0,0,0,0,0,0,0,1
+64912a7d77cb3a816838b813,Who is George Santos and why is he in trouble?,authors,44,Are there background checks and psychological test given to politicians that assume office? Or is it blind faith?,0,1,0,0,0,0,0,0,1
+649342dfd22b6bd86908f12b,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,40,Why do the authors think VP Harris didn't respond to their inquiries about her handling of the border crisis?,0,0,1,0,1,1,0,1,2
+6495ac1f8a1cd336e64c06e4,Here's where extreme heat could be devastating in coming years,authors,40,Is the government in these areas preparing for what could happen?,0,1,0,0,0,0,0,0,3
+64a632990114310708d1f57a,Here's where extreme heat could be devastating in coming years,authors,40,What can they actually do short term and long term to realistically change things? I see a lot of pointing out the problems but not of clear solutions people or governments can actually do so what can they do NOW?,0,1,0,0,1,1,0,1,5
+64934528d22b6bd86908f12c,Measles outbreak across US hits 25 year high,authors,39,Are these fines actually being enforced?,0,0,1,1,0,0,0,1,2
+6495a1348a1cd336e64c06df,Who is George Santos and why is he in trouble?,authors,39,What did his mother die of?,1,0,0,0,0,0,0,0,1
+64a618770114310708d1f576,Measles outbreak across US hits 25 year high,authors,39,What are options for parents who cannot afford the fine?,0,1,0,0,0,0,0,0,2
+6495a3d98a1cd336e64c06e0,Measles outbreak across US hits 25 year high,authors,38,Can a mayor legally mandate a vaccine?,0,0,0,1,0,0,0,0,1
+64a495bbb4f3637d496d456c,The meaning behind the far-right symbol Texas shooter wore as he killed 8,chatbot,37,"For what crime was the chairman of the Proud Boys, Enrique Tarrio, convicted last week?",1,0,0,0,0,0,0,0,1
+649a8c0c987eebde923fc069,Measles outbreak across US hits 25 year high,chatbot,36,Why don't Orthodox Jews get vaccinated against measles?,0,0,0,0,0,1,0,0,2
+64a49107b4f3637d496d4568,Measles outbreak across US hits 25 year high,chatbot,36,What percentage of cases arose in Williamsburg?,1,0,0,0,0,0,0,0,1
+64a6fc0935d90f9dd58308af,The meaning behind the far-right symbol Texas shooter wore as he killed 8,authors,36,"Did the photos actually show the former Proud Boys national chairman Enrique Tarrio wearing a RWDS or just ""appear"" to show the patch?",1,0,0,1,0,0,0,0,2
+64a623b82d26908d71ade29d,The meaning behind the far-right symbol Texas shooter wore as he killed 8,authors,35,What does this line even mean?,0,0,0,0,0,1,0,1,2
+6493455bd22b6bd86908f12d,Here's where extreme heat could be devastating in coming years,authors,34,Why do experts think the death toll was higher?,0,0,0,0,0,1,0,0,2
+6495ac1f8a1cd336e64c06e4,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",authors,34,Is the reason Mississippi has more anxiety and depression also do to low income?,0,0,0,0,0,1,0,0,3
+649c9265175f10aaa889c839,The meaning behind the far-right symbol Texas shooter wore as he killed 8,chatbot,32,"Did Donald Trump embrace or encourage the ""Proud Boys?""",0,0,1,1,0,0,0,1,1
+64a6fc0935d90f9dd58308af,Here's where extreme heat could be devastating in coming years,authors,32,Why do scientists think that the climate for places like Washington and Oregon suddenly changed? Like which specific factors cause this specific region to face extreme heat when it is not close to the equator.,0,1,0,0,0,1,0,0,3
+64a7802288be86775400d683,The meaning behind the far-right symbol Texas shooter wore as he killed 8,chatbot,32,When did they start calling themselves the Proud Boys?,1,0,0,0,0,0,0,0,1
+64a61d130114310708d1f577,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,authors,30,How was insulin production restored?,0,1,0,0,0,0,0,0,2
+64934528d22b6bd86908f12c,Thawing permafrost may unleash industrial pollution across the Arctic,authors,29,What other countries have large industries above the Arctic Circle?,1,0,0,0,0,0,0,0,1
+649a91b8987eebde923fc06b,Here's where extreme heat could be devastating in coming years,chatbot,29,What kind of things are in a heat plan?,0,1,0,0,0,0,0,0,2
+64982084fc989bfbf1514222,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,29,"Is 91 percent enough to have a ""well"" life or does the patient need a supplemental medicine?",0,1,0,0,0,0,0,0,4
+64a495b74738f254e8504b04,Here's where extreme heat could be devastating in coming years,chatbot,28,"If I wanted to read more about the Cabot Institute for the Environment's work, what would you suggest?",0,0,1,0,0,0,1,1,1
+64a6918b86298c0ec95cefa1,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",authors,28,Where is this research that shows low income individuals were at higher risk of depression during the pandemic?,0,0,1,0,0,0,0,1,1
+64980d5df67109d07fbb71ab,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",chatbot,27,"What qualified as ""low income"" for the study?",1,0,0,0,0,0,0,0,1
+6495ac1f8a1cd336e64c06e4,Here's where extreme heat could be devastating in coming years,authors,26,How did you identify the regions?,0,0,0,0,0,1,0,0,1
+64934528d22b6bd86908f12c,Measles outbreak across US hits 25 year high,authors,25,When I went to school they wouldn't let me go to school if I hadn't been fully immunized. When did this change?,1,0,0,0,0,0,0,0,2
+649a91b8987eebde923fc06b,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,25,Why did the researchers decide to only give half the target dose?,0,0,0,0,0,1,0,0,2
+64a495a6b4f3637d496d456b,Measles outbreak across US hits 25 year high,chatbot,25,Don't 100% of all children who attend public school have to be immunized for measles?,0,0,0,1,0,0,0,0,1
+649342dfd22b6bd86908f12b,Thawing permafrost may unleash industrial pollution across the Arctic,authors,24,How much radioactive waste is currently trapped in the permafrost?,1,0,0,0,0,0,0,0,1
+649c8f13175f10aaa889c836,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,24,Can you explain what VX-880 is in simple terms.,0,1,0,0,0,1,0,0,2
+64980d5df67109d07fbb71ab,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,24,What is the specific methodology that will be used by the USDA for fair allocation of the money?,0,1,0,0,0,0,0,0,2
+64934eeac1ff5e3fc1a87f66,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,24,What is the USDA's reputation in the past for fair allocation of money?,0,1,0,0,0,0,0,0,1
+64a4905d4738f254e8504b02,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,24,What are the policies in place?,0,1,0,0,0,0,0,0,1
+64a495bbb4f3637d496d456c,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,24,Where are some of the sites where radioactive waste from nuclear-testing programs can be found in the Arctic?,1,0,0,0,0,0,0,0,1
+64a632990114310708d1f57a,Here's where extreme heat could be devastating in coming years,authors,24,Which areas will notice the impact of the heat changes later than the others?,0,1,0,0,0,0,0,0,3
+64913c6d7b94fcb45e539183,Thawing permafrost may unleash industrial pollution across the Arctic,authors,23,What is the potential for the viruses released to cause a pandemic?,0,1,0,0,0,0,0,0,2
+64913c6d7b94fcb45e539183,Who is George Santos and why is he in trouble?,authors,23,So with Santos it is okay to lie as long as you get what you wanted even though it is under fasehoods?,0,0,0,0,1,0,0,0,3
+64981921f67109d07fbb71ac,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,23,Can you be more specific to what crops will get more funding?,1,0,0,0,0,0,0,0,1
+649c9179208897eb1ff7d9ee,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",chatbot,23,What progress is Harris touting when she says there has been extreme progress? Where is the data?,0,1,1,0,0,0,0,1,3
+64a61d130114310708d1f577,Renewable energy is here. But how do we store it for the future?,authors,23,"How does someone do ""mineral and energy exploitation""?",0,1,0,0,0,1,0,0,2
+64a61d130114310708d1f577,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,23,"What specifically is meant by ""extreme progress"" in tackling the crisis?",0,0,0,0,0,1,0,0,2
+6495ac1f8a1cd336e64c06e4,The meaning behind the far-right symbol Texas shooter wore as he killed 8,authors,22,How many years of prison time was the leader of the Proud boys given for his conviction of Jan 6?,1,0,0,0,0,0,0,0,1
+649a8c0c987eebde923fc069,Measles outbreak across US hits 25 year high,chatbot,22,How likely are you to die if you get measles?,0,1,0,0,0,0,0,0,1
+64a6918b86298c0ec95cefa1,Renewable energy is here. But how do we store it for the future?,authors,21-Jan,How are you going to transfer the energy produced in a place like Africa throughout the world or is it only going to benefit the immediate region?,0,1,0,0,0,0,0,0,4
+64a495bbb4f3637d496d456c,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,21,Are there studies that Kimberley Miner of NASA's Jet Propulsion Laboratory was involved with that are related to the potential impact of thawing permfafrost?,0,0,1,0,0,0,0,1,1
+64a495bbb4f3637d496d456c,The meaning behind the far-right symbol Texas shooter wore as he killed 8,chatbot,21,Which people did Gen. Augusto Pinochet target with his death squads?,1,0,0,0,0,0,0,0,1
+64a61d130114310708d1f577,Renewable energy is here. But how do we store it for the future?,authors,21,What exactly is meant by cheap labor?,0,0,0,0,0,1,0,0,2
+64a78d9988be86775400d684,Chile‚Äôs desert dumpsite for 60K tons of fast fashion seen from space,chatbot,21,Did SkyFi have a comment?,0,0,0,1,0,0,0,0,1
+649340531a2f52d516451864,What COVID Could Look Like One Year From Now,authors,20,Why would the holidays throw off outbreak data?,0,0,0,0,0,1,0,0,3
+64981921f67109d07fbb71ac,What COVID Could Look Like One Year From Now,chatbot,20,Why would the holidays throw outbreak data off?,0,0,0,0,0,1,0,0,2
+649a8c0c987eebde923fc069,Renewable energy is here. But how do we store it for the future?,chatbot,20,Why is mining cobalt so dangerous?,0,0,0,0,0,1,0,0,1
+649c9179208897eb1ff7d9ee,What COVID Could Look Like One Year From Now,chatbot,20,what makes the holidays throw off the numbers?,0,0,0,0,0,1,0,0,2
+6491330f7b94fcb45e539182,Renewable energy is here. But how do we store it for the future?,authors,19,You speak of storing green energy but how is that accomplished exactly when it  comes to sun and wind and how to batteries relate to this process?,0,1,0,0,0,1,0,1,4
+64a618770114310708d1f576,Thawing permafrost may unleash industrial pollution across the Arctic,authors,19,"What does ""SN: 8/11/22"" mean?",1,0,0,0,0,0,0,0,1
+64a632990114310708d1f57a,"As Afghan Migrants Are Kept In A Former Dick‚Äôs Sporting Goods, Measles Appears In Northern Virginia",authors,19,So what happens to this building? was it just borrowed willingly and will be cleaned or does the person who owns the building now have to clean it with his own money or what?,0,1,0,0,0,1,0,0,3
+64a6fc0935d90f9dd58308af,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,authors,19,"How common is it for a person with type 1 diabetes to experience 5 severe, potentially life threatening episodes?",1,0,0,0,0,0,0,0,1
+6495a53792de78df37d95225,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,18,What makes the republicans think the funds would be distributed unevenly?,0,1,0,0,1,0,0,0,2
+64981921f67109d07fbb71ac,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,18,What is the issue with some funds going more towards some areas?,0,0,0,0,0,1,0,0,4
+649c9179208897eb1ff7d9ee,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,18,What do the Republicans ask for to agree with the terms of the bill?,0,1,0,0,0,0,0,0,2
+64a623b82d26908d71ade29d,Here's where extreme heat could be devastating in coming years,authors,18,Why is it so hard for these countries to get window AC units?,0,0,0,0,0,1,0,0,2
+64a6918b86298c0ec95cefa1,"Trump sets off on race for White House, promises to make America 'great and glorious again'",authors,18,How has Americas successful path changed since he left office?,0,1,0,0,0,0,0,0,2
+64934eeac1ff5e3fc1a87f66,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,17,Why has Kamala Harris not been to the U.S border yet?,0,0,0,0,0,1,0,0,2
+64a4905d4738f254e8504b02,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,17,Who is in the Goergia Senate run off on Dec. 6th?,1,0,0,0,0,0,0,0,1
+64a77ba41f2cf98a5f295d20,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,17,What's so important about the December 6th runoff in Georgia?,0,1,0,0,0,1,0,0,2
+6491330f7b94fcb45e539182,Renewable energy is here. But how do we store it for the future?,authors,16,"Aren't energy systems like wind also dangerous to the environment? Doesn't it pose a thread to birds, their migration patterns and wildlife in general?",0,1,1,0,0,1,0,1,5
+64980d5df67109d07fbb71ab,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,16,Who are the Republican candidates that performed poorly in the midterm elections?,1,0,0,0,0,0,0,0,2
+64981921f67109d07fbb71ac,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",chatbot,16,Wasn't there already a system of place to avoid lawsuits based on what the host says?,1,0,0,0,0,0,0,0,2
+64981921f67109d07fbb71ac,What COVID Could Look Like One Year From Now,chatbot,16,Who is Katherine Wu?,1,0,0,0,0,0,0,0,1
+64a495a6b4f3637d496d456b,Chile’s desert dumpsite for 60K tons of fast fashion seen from space,chatbot,16,How much profit is lost by dumping clothes?,1,0,0,0,0,0,0,0,1
+64a77b111f2cf98a5f295d1e,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,16,What other Republican candidates were there in the midterm elections?,1,0,0,0,0,0,0,0,1
+64a7802288be86775400d683,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,16,Why do glucose levels that are not in the right range pose such a danger?,0,0,0,0,0,1,0,0,2
+64933fdd1a2f52d516451863,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",authors,15,Why is the federal government bringing in the Afghan migrants by the plane full?,0,0,0,0,0,1,0,0,2
+64980d5df67109d07fbb71ab,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,15,Who are the people being described as his inner circle?,1,0,0,0,0,0,0,0,1
+64a495bbb4f3637d496d456c,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",chatbot,15,How many Afghan migrants in total have been brought to Fairfax County by the Biden administration?,1,0,0,0,0,0,0,0,1
+64a631732d26908d71ade29f,"Trump sets off on race for White House, promises to make America 'great and glorious again'",authors,15,What where aids saying?,1,0,0,0,0,0,0,0,1
+64a632990114310708d1f57a,"Trump sets off on race for White House, promises to make America 'great and glorious again'",authors,15,Did he fire these aides then if they are considered former or did they work for other presidential campaigns?,0,1,0,0,0,0,0,0,3
+649a8c0c987eebde923fc069,Who is George Santos and why is he in trouble?,chatbot,14,If George Santos is convicted will he lose his house seat?,0,0,0,1,0,0,0,0,4
+64a78d9988be86775400d684,Chile‚Äôs desert dumpsite for 60K tons of fast fashion seen from space,chatbot,14,Who did they obtain the image from that they paid $44 for?,1,0,0,0,0,0,0,0,1
+64a618770114310708d1f576,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",authors,12,What did the inappropriate relationship consist of?,1,0,0,0,0,0,0,0,1
+64a4905d4738f254e8504b02,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,11,Who is Podesta?,1,0,0,0,0,0,0,0,1
+64a6918b86298c0ec95cefa1,Renewable energy is here. But how do we store it for the future?,authors,11,What method are you using to make combustion engines run on ammonia?,0,0,0,0,0,1,0,0,2
+64a71f427bbf7eb5083f6728,"As Afghan Migrants Are Kept In A Former Dick‚Äôs Sporting Goods, Measles Appears In Northern Virginia",authors,11,Will the refugees get vaccinated for the measles?,1,0,0,1,0,0,0,0,1
+649a8c0c987eebde923fc069,Who is George Santos and why is he in trouble?,chatbot,10,How long did George Santos live in brazil for?,1,0,0,0,0,0,0,0,1
+649aa73a987eebde923fc06f,What COVID Could Look Like One Year From Now,chatbot,10,Why a soft lockdown as opposed to a full lockdown for the rise in Omicron COVID cases?,0,0,0,0,0,1,0,0,3
+649aa73a987eebde923fc06f,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,10,Why does Trump put an emphasis on grandmothers and police officers at his rally?,0,0,0,0,0,1,0,0,2
+64a495a6b4f3637d496d456b,Measles outbreak across US hits 25 year high,chatbot,10,Do Jews have a religious reason for not wanting to get vaccinated?,0,1,0,0,0,0,0,0,1
+64934eeac1ff5e3fc1a87f66,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,9,Why will Biden resist efforts to reallocate funds for the IRA?,0,0,0,0,0,1,0,0,4
+64a49107b4f3637d496d4568,Measles outbreak across US hits 25 year high,chatbot,9,In which state were the measles outbreaks concentrated?,1,0,0,0,0,0,0,0,1
+64a77c0488be86775400d681,The meaning behind the far-right symbol Texas shooter wore as he killed 8,chatbot,9,What does the swastika represent?,1,0,0,0,0,0,0,0,1
+64981921f67109d07fbb71ac,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",chatbot,8,What was the dispute Don Lemon had with CNN?,0,1,0,0,0,0,0,0,1
+6495a0478a1cd336e64c06dd,Renewable energy is here. But how do we store it for the future?,authors,8,how long do you think that it will be able to be stored for?,1,0,0,0,1,0,0,0,1
+6495a53792de78df37d95225,Measles outbreak across US hits 25 year high,authors,8,"The measles are highly contagious and potentially life-threatening, what are the first signs of measles and their symptoms including the incubation period?",0,1,0,0,0,0,0,0,3
+649c9179208897eb1ff7d9ee,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",chatbot,8,What gives Harris the skills needed to be the border czar?,0,0,0,0,0,1,0,0,2
+64a6918b86298c0ec95cefa1,"Trump sets off on race for White House, promises to make America 'great and glorious again'",authors,8,How is he going to unify such a divided country?,0,1,0,0,0,0,0,0,2
+6495ac1f8a1cd336e64c06e4,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",authors,7,Could there be other factors because of the lock down and isolation?,0,1,0,0,0,0,0,0,4
+64a618770114310708d1f576,Measles outbreak across US hits 25 year high,authors,7,How does the measles cause pneumonia?,1,0,0,0,0,1,0,0,2
+64a61d130114310708d1f577,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,7,How is climate change a cause of Central Americans' migration to the US?,0,0,0,0,0,1,0,1,2
+64a623b82d26908d71ade29d,The meaning behind the far-right symbol Texas shooter wore as he killed 8,authors,7,What russian social media site? Why would he use a russian site?,1,0,0,0,0,1,0,1,2
+64a69afde22bbccf37317e2a,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",authors,7,Why did Don Lemon not get treated fairly?,0,0,0,0,0,1,0,0,2
+64a77c0488be86775400d681,The meaning behind the far-right symbol Texas shooter wore as he killed 8,chatbot,7,What was the specific Russian social networking site that the shooter posted on?,1,0,0,0,0,0,0,0,1
+64913c6d7b94fcb45e539183,What COVID Could Look Like One Year From Now,authors,6,How long will this virus hang around?,1,0,0,0,0,0,0,0,1
+64933fdd1a2f52d516451863,"Trump sets off on race for White House, promises to make America 'great and glorious again'",authors,6,"What was the size of the cheering crowd, as many of Trumps events have been waning recently.",1,0,0,0,0,0,0,0,1
+6495a53792de78df37d95225,Measles outbreak across US hits 25 year high,authors,6,"Since 500 of those infected were not vaccinated which means that over 200 were vaccinated, how did they get the measles?",0,1,0,0,0,0,0,0,4
+649a91b8987eebde923fc06b,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,6,How many of the 1.6 million diabetics are Type 1?,1,0,0,0,0,0,0,0,1
+64a61d130114310708d1f577,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,authors,6,Is the percentage of Americans with Type 1 diabetes rising?,0,0,0,1,0,0,0,0,1
+64a6fa3f35d90f9dd58308ae,"Trump sets off on race for White House, promises to make America 'great and glorious again'",authors,6,How many people were actually there?,1,0,0,0,0,0,0,0,1
+64a7eb4b9b3596ed7981eb91,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",chatbot,6,What does the article mean by a Fox booker?,0,0,0,0,0,1,0,0,2
+64913c6d7b94fcb45e539183,What COVID Could Look Like One Year From Now,authors,5,Should I be worried that the virus will change and create another worse virus?,0,0,0,0,1,0,0,0,2
+64980c47f67109d07fbb71a9,What COVID Could Look Like One Year From Now,chatbot,5,What variant is causing people to worry about a COVID resurgence?,1,0,0,0,0,0,0,0,1
+649a85146900dc62b912fd3d,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",chatbot,5,What is the name of the person who filed a lawsuit against Fox news regarding Tucker Carlson?,1,0,0,0,0,0,0,0,1
+649a8c0c987eebde923fc069,Renewable energy is here. But how do we store it for the future?,chatbot,4,Who is Bill David?,1,0,0,0,0,0,0,0,1
+64980c47f67109d07fbb71a9,What COVID Could Look Like One Year From Now,chatbot,4,How many years have we been in a pandemic?,1,0,0,0,0,0,0,0,1
+64a623b82d26908d71ade29d,Here's where extreme heat could be devastating in coming years,authors,4,Wouldn't all 3rd world countries be the ones at most risk?,0,0,0,1,1,0,0,0,3
+64a6918b86298c0ec95cefa1,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",authors,3-Jan,Are there any other separate scientific studies that show the same results?,0,0,1,0,0,0,0,1,1
+64a696f2e22bbccf37317e29,"Trump sets off on race for White House, promises to make America 'great and glorious again'",authors,4,What issues are currently dividing the Republican Party and how will a divided party impact Trump's campaign?,0,1,0,0,1,1,0,0,2
+64a6f9ee35d90f9dd58308ad,The meaning behind the far-right symbol Texas shooter wore as he killed 8,authors,4,"How is this presented as a credible claim, that police would not have any idea what the motivations of a right wing violent extremist would be in engaging in an act of violence?",0,0,1,0,0,1,0,1,3
+6491330f7b94fcb45e539182,What COVID Could Look Like One Year From Now,authors,3,"The 300,000 cases per week seems somewhat exaggerated. Is it true that Covid-related deaths have been over-estimated in hospitals where patients are admitted with pre-existing conditions?",0,0,1,0,0,0,0,1,4
+649c9265175f10aaa889c839,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,3,Why did they only do a one person trial?,0,0,0,0,0,1,0,0,2
+64a632990114310708d1f57a,"Trump sets off on race for White House, promises to make America 'great and glorious again'",authors,3,Where does the money for this over extravagant basic rally come from?,1,0,0,0,0,0,0,0,2
+6495a53792de78df37d95225,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",authors,2,How were the private texts found in the first place since they were considered private?,0,1,0,0,0,0,0,0,2
+64a495a6b4f3637d496d456b,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",chatbot,2,How did Fox come to have the private texts of one of their employees?,0,1,0,0,0,0,0,0,1
+64a626310114310708d1f578,Renewable energy is here. But how do we store it for the future?,authors,2,"I would like to know if Serena Cussen and her team have any next-generation energy prototypes in the works ? If yes, how do they operate?",0,1,0,0,0,0,0,0,3
+64a626310114310708d1f578,Renewable energy is here. But how do we store it for the future?,authors,2,Do Serena and Bill plan to employ people from Africa and regions of energy exploitation to give them fair jobs and quality of life?,0,1,0,0,0,0,0,0,3
+64a626310114310708d1f578,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",authors,2,Where do these numbers and statistics come from? Are these numbers based purely on people who reported these issues to medical professionals?,1,0,1,0,0,1,0,1,2
+64a626310114310708d1f578,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",authors,2,I'm wondering if these statistics are  accurate since not every person or a  household in United States had access or sought treatment for mental health issues?,0,0,1,0,0,0,0,1,3
+64a680d886298c0ec95cef9f,Thawing permafrost may unleash industrial pollution across the Arctic,authors,2,"What could happen to the environment and people's health if the thawing permafrost in the Arctic causes more than 2,000 industrial sites to become unstable  contaminated areas to worsen?",0,1,0,0,0,0,0,0,4
+64a680d886298c0ec95cef9f,"As Afghan Migrants Are Kept In A Former Dick‚Äôs Sporting Goods, Measles Appears In Northern Virginia",authors,2,"How are Afghan migrants being accommodated in the former Dick's Sporting Goods store, and what challenges are arising from this situaton?",0,1,0,0,0,1,0,0,3
+64a680d886298c0ec95cef9f,"As Afghan Migrants Are Kept In A Former Dick‚Äôs Sporting Goods, Measles Appears In Northern Virginia",authors,2,Can you provide more information on the situation where Americans were being turned away from a hospital due to overcrowding with Afghan migrants?,0,1,0,0,0,0,0,0,2
+64a6854286298c0ec95cefa0,Chile‚Äôs desert dumpsite for 60K tons of fast fashion seen from space,authors,2,How to clean the unwanted clothe in society?,0,0,0,0,0,1,0,0,3
+64a6854286298c0ec95cefa0,Measles outbreak across US hits 25 year high,authors,2,How many vaccines are taken in the disease?,1,0,0,1,0,0,0,0,1
+64a6854286298c0ec95cefa0,"Trump sets off on race for White House, promises to make America 'great and glorious again'",authors,1-Jan,What is the aim of meeting?,0,1,0,0,0,0,0,0,1
+64a696f2e22bbccf37317e29,"As Afghan Migrants Are Kept In A Former Dick‚Äôs Sporting Goods, Measles Appears In Northern Virginia",authors,1-Jan,"Were the migrants relocated from the Dick's Sporting Goods so abruptly because of the measles outbreak, or for some other reason?",0,0,0,0,0,1,0,1,1
+64912a7d77cb3a816838b813,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,1,What type of large corporate GMO funding will be involved for seeds and fertilizer? Smart farming one could assume that GMO will be funded.,0,1,0,0,0,0,0,0,1
+64912a7d77cb3a816838b813,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,authors,1,Can this stem cell therapy treat any other types of blood disorders besides diabetes?,0,1,0,0,0,1,0,0,3
+64a495a6b4f3637d496d456b,Chile’s desert dumpsite for 60K tons of fast fashion seen from space,chatbot,1,Why doesn't the fashion industry ship the clothing to under-developed countries to be given out as needed instead of dumping the clothes in Chile?,0,0,0,0,0,1,0,0,5
+64a626310114310708d1f578,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",authors,1,"Tucker Carson must have behaved this way for a while, so why did this just came into the light recently?",0,0,0,0,1,1,0,0,4
+64a626310114310708d1f578,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",authors,1,"Did CNN and Fox make a special, legal policy to prevent this from happening in the future?",0,1,0,1,0,0,0,0,3
+64a680d886298c0ec95cef9f,Who is George Santos and why is he in trouble?,authors,1,What specific fraud charges are being revived against Congressman George Santos in Brazil?,0,1,0,0,0,0,0,0,1
+64a6854286298c0ec95cefa0,Chile‚Äôs desert dumpsite for 60K tons of fast fashion seen from space,authors,1,What type of clothes mostly unwanted?,1,0,0,1,0,0,0,0,1
+64a6854286298c0ec95cefa0,Measles outbreak across US hits 25 year high,authors,1,What are the symptom of eradicated?,0,1,0,0,0,0,0,0,1
+64a6854286298c0ec95cefa0,"Trump sets off on race for White House, promises to make America 'great and glorious again'",authors,1,Why trump does not believe republicans?,0,0,0,0,0,1,0,0,2
+64a77be41f2cf98a5f295d22,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,1,Can he still be the president since he was arrested and might have been convicted of some crimes after this announcement?,0,0,0,1,0,1,0,0,2
+64a7eb4b9b3596ed7981eb91,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",chatbot,1,What type of content does The MediaBuzz usually talk about?,1,0,0,0,0,0,0,0,1
+64911be877cb3a816838b80e,Renewable energy is here. But how do we store it for the future?,authors,,"My second question is how is renewable energy supposed to be stored in the future different than it is stored today? That question is in the title of the article, but what I read didn't answer that question at all, and had more to say about the ethics of energy extraction practices of today.",0,1,1,0,0,1,0,1,3
+64911be877cb3a816838b80e,"Trump sets off on race for White House, promises to make America 'great and glorious again'",authors,,Did Trump only pitch unity at his announcement to run for President for the third time? This is a short article and I am left wondering is that is really all he said at his announcement and nothing else of note.,0,1,0,0,0,0,0,0,2
+6491259577cb3a816838b810,"Trump sets off on race for White House, promises to make America 'great and glorious again'",authors,,Did Trump mention the Capitol attack in his announcement?,0,0,0,1,0,0,0,0,1
+649126127b94fcb45e539181,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,,Where is the other $410 billion going to be alloted?,1,0,0,0,0,0,0,0,1
+649126127b94fcb45e539181,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,,Will all farmers be eligible or will it only be certain ones?,0,1,0,0,0,0,0,0,1
+649126127b94fcb45e539181,What COVID Could Look Like One Year From Now,authors,,Was this really do to the holiday season? Did findings even out a few weeks later?,0,0,1,0,0,1,0,1,2
+649126127b94fcb45e539181,What COVID Could Look Like One Year From Now,authors,,Did the CDC anticipate this spike during this time of year?,0,0,0,1,0,0,0,0,1
+649126127b94fcb45e539181,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,,Why doesn't biden reassign her to immigration he is the boss after all?,0,0,0,0,0,1,0,0,4
+649127b977cb3a816838b811,Thawing permafrost may unleash industrial pollution across the Arctic,authors,,"Would these contamination sites or leaks into the environment further exacerbate climate change itself, such as destroying a bunch of algae or trees that help eliminate CO2 in the environment?",0,1,0,0,0,0,0,0,3
+649127b977cb3a816838b811,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",authors,,Are there more recent numbers looking at longer term trends since the first half of June 2021?,0,0,1,0,0,0,0,1,1
+649127b977cb3a816838b811,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",authors,,"Have there been any studies on whether or not seeing the numbers of cases, deaths, and hospitalizations in the news and media contributed to these symptoms, or was it more due to life circumstances such as business closures, remote working, different social interactions, and how are these changing currently with the end of mask mandates, no more reporting of numbers, etc.?",0,1,1,0,0,1,0,0,4
+64912a3f77cb3a816838b812,"Trump sets off on race for White House, promises to make America 'great and glorious again'",authors,,How would you compare the level of energy and excitement for Trump at this event to that of his announcement for his presidential bid for 2016?,0,1,0,0,1,0,0,0,4
+64933fdd1a2f52d516451863,Here's where extreme heat could be devastating in coming years,authors,,"While some places are at greater risk of extreme heat waves due to climate change, is it fair to say that all places are at risk of intensified climate?",0,1,0,0,1,1,0,0,5
+64933fdd1a2f52d516451863,Here's where extreme heat could be devastating in coming years,authors,,What are some things the reader can do to help curb climate change now as far as their own consumption habits go?,0,1,0,0,1,0,1,0,5
+64933fdd1a2f52d516451863,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",authors,,"The article says that the federal government brought planeloads of Afghan migrants, but what organization within the government brought them?",1,0,0,0,0,0,0,0,1
+64933fdd1a2f52d516451863,"Trump sets off on race for White House, promises to make America 'great and glorious again'",authors,,Why does the article not inform the reader about Trumps legal issues and indictments?,0,0,0,0,0,1,0,1,2
+64934528d22b6bd86908f12c,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",authors,,How long had Tucker Carlson worked for Fox News?,1,0,0,0,0,0,0,0,1
+649c8e72208897eb1ff7d9eb,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,,Are there plans for larger-scale clinical trials or further research?,0,1,0,1,0,0,0,0,1
+649c9132208897eb1ff7d9ed,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,,"If this works on type 1, would it also have the same results on other levels/types of diabetes?",0,1,0,0,0,1,0,0,3
+649aa73a987eebde923fc06f,What COVID Could Look Like One Year From Now,chatbot,,What are the odds of there possibly being another strain of COVID after Omicron?,0,1,0,0,1,0,0,0,3
+649a824e987eebde923fc065,Chileâ€™s desert dumpsite for 60K tons of fast fashion seen from space,chatbot,,what could have been done to prevent this problem from every happening; how could this all have been avoided?,0,1,0,0,1,0,0,0,6
+649820ccf67109d07fbb71ae,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",chatbot,,What does Kamala Harris recommend to deal with the situation?,0,1,0,0,0,0,0,0,2
+649aa73a987eebde923fc06f,Here's where extreme heat could be devastating in coming years,chatbot,,What tools can they use to accurately predict where the next extreme heat wave will be?,1,0,0,0,0,0,0,0,2
+649c9179208897eb1ff7d9ee,What COVID Could Look Like One Year From Now,chatbot,,Does the vaccine for Omicron have data proving it works?,0,0,1,0,0,0,0,1,2
+649c8e72208897eb1ff7d9eb,Chileâ€™s desert dumpsite for 60K tons of fast fashion seen from space,chatbot,,"What percentage of the world's carbon emissions does the fashion industry contribute, according to the United Nations?",1,0,0,0,0,0,0,0,1
+649a85146900dc62b912fd3d,Measles outbreak across US hits 25 year high,chatbot,,Why are people not motivated to vaccinate even if vaccinations have a history of being effective?,0,0,0,0,0,1,0,0,4
+649c8e72208897eb1ff7d9eb,The meaning behind the far-right symbol Texas shooter wore as he killed 8,chatbot,,"Which groups have embraced the term ""Right Wing Death Squad"" and used it as a symbol?",1,0,0,0,0,0,0,0,1
+6493455bd22b6bd86908f12d,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,,What could have been done to reduce the number of incoming migrants?,0,0,0,0,1,0,0,0,6
+64936329454d8858d00af112,Chile’s desert dumpsite for 60K tons of fast fashion seen from space,authors,,What do you think could be done to address the issue of fast fashion and minimize the environmental consequences of the fashion industry? I'd love to hear your thoughts on potential solutions or strategies.,0,0,0,0,1,0,0,0,5
+64936329454d8858d00af112,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,,What has the administration done to tackle the border crisis and reduce the increase in migrant encounters since Vice President Harris took on her role?,0,1,0,0,0,0,0,0,5
+64936329454d8858d00af112,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,,Does Vice President Harris have any future plans or scheduled events to directly deal with the ongoing border crisis and the surge of migrant encounters?,0,1,0,0,0,0,0,0,5
+6493727e161307e319dc6cdb,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,,"How well off would farmers that have implemented climate friendly practices be if they do not receive any government support, would they still be able to farm using climate friendly practices without financial aid, and if not, why?",0,1,0,0,0,1,0,0,5
+6495a3d98a1cd336e64c06e0,Chile’s desert dumpsite for 60K tons of fast fashion seen from space,authors,,What are the people of Chile doing in order to get this waste down and out of there?,0,1,0,0,0,0,0,0,5
+6495a3d98a1cd336e64c06e0,Measles outbreak across US hits 25 year high,authors,,Have the measles spread to any other part of the US the way it has in NY?,0,1,0,0,0,0,0,0,3
+6495a3d98a1cd336e64c06e0,Who is George Santos and why is he in trouble?,authors,,How did anyone allow him to get this far without actually investigating his background before hand?,0,0,0,0,1,0,0,0,6
+6495b00d92de78df37d95226,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,,What are some exclusionary clauses in the bill that might cause some farmers concern?,0,1,0,0,0,0,0,0,2
+6495b00d92de78df37d95226,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,,Which crops are eligible for the funds?,1,0,0,0,0,0,0,0,1
+64980afaf67109d07fbb71a8,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,,What's the most dangerous pollutant that could be unleashed if the permafrost keeps thawing?,1,0,0,0,0,0,0,0,1
+64980afaf67109d07fbb71a8,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,,Could this treatment completely heal someone that had diabetes type for more than a decade?,0,0,0,1,0,0,0,0,4
+64980c47f67109d07fbb71a9,Chile’s desert dumpsite for 60K tons of fast fashion seen from space,chatbot,,How id skyfi get the landfill photos?,0,1,0,0,0,0,0,0,1
+64980c47f67109d07fbb71a9,Chile’s desert dumpsite for 60K tons of fast fashion seen from space,chatbot,,Why was the clothing discarded?,0,0,0,0,0,1,0,0,2
+64981a5bfc989bfbf1514221,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,,What are some of the potential consequences of not regulating permafrost sites?,0,1,0,0,0,0,0,0,2
+64981a5bfc989bfbf1514221,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",chatbot,,"Can you summarize the movement of the migrants, according to the article?",0,0,0,0,0,0,1,0,2
+64981a5bfc989bfbf1514221,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",chatbot,,What statements has Harris made concerning her role in the immigration crisis?,0,1,0,0,0,0,0,0,1
+649820ccf67109d07fbb71ae,Here's where extreme heat could be devastating in coming years,chatbot,,What is the highest temperature expected in the heat waves?,1,0,0,0,0,0,0,0,1
+649820ccf67109d07fbb71ae,Here's where extreme heat could be devastating in coming years,chatbot,,What can be done to mitigate the impacts of heat waves?,0,0,0,0,1,0,0,0,3
+649820ccf67109d07fbb71ae,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",chatbot,,Have any Americans caught measles from the Afghans?,0,0,0,1,0,0,0,0,1
+649820ccf67109d07fbb71ae,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",chatbot,,How many of the migrants are allowed to stay in the US?,1,0,0,0,0,0,0,0,1
+649a824e987eebde923fc065,Chile’s desert dumpsite for 60K tons of fast fashion seen from space,chatbot,,"now that the photos have been seen by many people, are citizens expressing outrage or is there more a feeling of ""it's not important enough"" by most citizens throughout the world who see it?",0,1,0,0,0,0,0,0,5
+649a85116900dc62b912fd3c,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,,When will the treatment be available?,1,0,0,0,0,0,0,0,1
+649a85116900dc62b912fd3c,Who is George Santos and why is he in trouble?,chatbot,,If Santos is found guilty can he still be in congress?,0,0,0,1,0,0,0,0,2
+649a85116900dc62b912fd3c,Who is George Santos and why is he in trouble?,chatbot,,Is there anyplace to see a full list of his known lies?,0,0,1,0,0,0,0,1,1
+649a85146900dc62b912fd3d,Measles outbreak across US hits 25 year high,chatbot,,"Why did the Mayor of New York, Bill de Blasio, impose fines on those who don't show up in court?",0,0,0,0,0,1,0,0,2
+649aa73a987eebde923fc06f,Here's where extreme heat could be devastating in coming years,chatbot,,What makes a certain spot more of a hotspot for extreme heat than others?,0,1,0,0,0,0,0,0,2
+649aa73a987eebde923fc06f,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,,What would Trump's plan to make America great again consist of this time around in 2024 if he is elected?,0,1,0,0,0,0,0,0,3
+649c8e72208897eb1ff7d9eb,Chile’s desert dumpsite for 60K tons of fast fashion seen from space,chatbot,,"How long does it take for many of these clothing items to biodegrade, and why?",1,0,0,0,0,1,0,0,2
+649c8e72208897eb1ff7d9eb,Chile’s desert dumpsite for 60K tons of fast fashion seen from space,chatbot,,"What other similar instances of overflowing landfills with clothing have been reported recently, and where?",1,0,0,0,0,0,0,0,1
+649c8e72208897eb1ff7d9eb,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,,Were there any significant side effects or complications reported during the 90-day period following the treatment?,0,1,0,0,0,0,0,0,1
+649c8e72208897eb1ff7d9eb,The meaning behind the far-right symbol Texas shooter wore as he killed 8,chatbot,,How does the presence of non-white members within white supremacist groups complicate the understanding of their ideologies and motivations?,0,0,0,0,0,1,0,0,3
+649c8f13175f10aaa889c836,Chile’s desert dumpsite for 60K tons of fast fashion seen from space,chatbot,,How can we as Americans help to solve this problem in Chile?,0,0,0,0,1,0,0,0,3
+649c8f13175f10aaa889c836,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,,Where did the stem cells for this treatment come from?,1,0,0,0,0,0,0,0,1
+649c8f13175f10aaa889c836,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",chatbot,,What has Biden done for or against illegal immigration in the last 3 years?,0,1,0,0,0,0,0,0,2
+649c9132208897eb1ff7d9ed,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,,Is it possible to clean it up as it thaws?,0,0,0,1,0,0,0,0,1
+649c9132208897eb1ff7d9ed,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,,What is the margin of error on the predictions made throughout the article?,1,0,1,0,0,0,0,1,1
+649c9132208897eb1ff7d9ed,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,,Will this be moving forward on a larger scale of testing to confirm the results?,0,0,0,1,0,0,0,0,3
+649c9132208897eb1ff7d9ed,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",chatbot,,How will Fox recover from the fallout from losing their biggest voice?,0,0,0,0,1,0,0,0,3
+649c9132208897eb1ff7d9ed,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",chatbot,,Why is Fox holding Carlson under contract if they no longer want him worker for them?,0,0,0,0,0,1,0,0,2
+649c9265175f10aaa889c839,The meaning behind the far-right symbol Texas shooter wore as he killed 8,chatbot,,Are there any examples of far left extremism with this type of propaganda being spread about hate and violence?,0,0,1,0,0,0,0,1,3
+64a4905d4738f254e8504b02,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",chatbot,,Which state is currently the leader in anxiety?,1,0,0,0,0,0,0,0,1
+64a4905d4738f254e8504b02,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,,What are the current odds of Trump winning again?,1,0,0,0,0,0,0,0,1
+64a497aeb4f3637d496d456f,Chile’s desert dumpsite for 60K tons of fast fashion seen from space,chatbot,,How is SkyFi funded?,1,0,0,0,0,0,0,0,1
+64a497aeb4f3637d496d456f,Chile’s desert dumpsite for 60K tons of fast fashion seen from space,chatbot,,Is it possible to buy premade clothing that is not treated with chemicals and does not contain synthetic fibers?,0,1,0,0,0,0,0,0,1
+64a497aeb4f3637d496d456f,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",chatbot,,What is the date of publication of this article?,1,0,0,0,0,0,0,0,1
+64a497aeb4f3637d496d456f,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",chatbot,,What publication did this article appear in?,1,0,0,0,0,0,0,0,1
+64a497eeb4f3637d496d4570,Chile’s desert dumpsite for 60K tons of fast fashion seen from space,chatbot,,When did that site first become used as a clothing dump?,1,0,0,0,0,0,0,0,1
+64a497eeb4f3637d496d4570,Chile’s desert dumpsite for 60K tons of fast fashion seen from space,chatbot,,Where did most of the clothing originate when new?,1,0,0,0,0,0,0,0,1
+64a497eeb4f3637d496d4570,Measles outbreak across US hits 25 year high,chatbot,,Could these cases be caused by vaccines?,0,0,0,0,0,1,0,0,1
+64a616ef2d26908d71ade29a,Renewable energy is here. But how do we store it for the future?,authors,,"After years of Africa being exploited for resources, if we do indeed find more ethical ways to store energy that don't rely on cobalt. What would be an ethical way of shifting to that new method that doesn't just evaporate the demand for cobalt and leave African owned businesses that may have cropped up around said cobalt demand in the lurch and worse off than they were before?",0,1,0,0,1,1,0,0,5
+64a616ef2d26908d71ade29a,Renewable energy is here. But how do we store it for the future?,authors,,When we shift to fully renewable resources what are the most ethical ways we can ensure we have enough supply for demand without stealing from the limited areas most suited for said renewables? It's going to take a lot of hydro or wind turbines and that land is most likely already in use or owned by others. How can we ensure we don't repeat the same crimes we have for centuries of just coming in and taking what we want?,0,1,0,0,0,1,0,0,5
+64a616ef2d26908d71ade29a,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",authors,,"What are the most common shared features in places that saw the largest increases in Anxiety and depression? Were there any common trends among race, religion or political leanings?",0,1,0,0,0,0,0,0,2
+64a616ef2d26908d71ade29a,Who is George Santos and why is he in trouble?,authors,,What can the American people or our politicians change about the American political system to prevent somebody as egregiously criminal and dishonest as George Santos from getting elected or staying in office in the future?,0,0,0,0,1,0,0,0,5
+64a616ef2d26908d71ade29a,Who is George Santos and why is he in trouble?,authors,,How did a complete newcomer like George Santos manage to not only fool everyone but win an entire election without his lies being exposed before he won...in other words what could the people or our media have done better to expose him before he was elected?,0,0,0,0,1,1,0,0,4
+64a631732d26908d71ade29f,Chile‚Äôs desert dumpsite for 60K tons of fast fashion seen from space,authors,,Why did Skyfi have to pay 44 for the picture?,0,0,0,0,0,1,0,0,2
+64a631732d26908d71ade29f,Chile‚Äôs desert dumpsite for 60K tons of fast fashion seen from space,authors,,What are some other options for discarded clothes.,0,1,0,0,0,0,0,0,2
+64a631732d26908d71ade29f,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,authors,,What are the next steps for this treatment?,0,1,0,0,0,0,0,0,2
+64a680d886298c0ec95cef9f,Thawing permafrost may unleash industrial pollution across the Arctic,authors,,"How are they trying to stop or reduce the release of diesel, gasoline, and other harmful chemicals from industrial sites in protect the Arctic environment? N/A",0,1,0,0,0,0,0,0,3
+64a680d886298c0ec95cef9f,Thawing permafrost may unleash industrial pollution across the Arctic,authors,,"Could you provide insights into the potential long-term consequences for Arctic ecosystems and the health of local communities if permafrost degradation continues to risk contaminating 1,000 industrial sites and 2,200 to 4,800 contaminated locations in the Arctic?",0,1,0,0,0,1,0,0,6
+64a680d886298c0ec95cef9f,Who is George Santos and why is he in trouble?,authors,,How has Santos' swearing-in as a congressman impacted the status of the fraud case against him in Brazil?,0,0,0,0,1,1,0,0,4
+64a69afde22bbccf37317e2a,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,,Will there be any negative outcomes to this?,0,1,0,0,0,1,0,0,2
+64a69afde22bbccf37317e2a,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,,What are the deadlines/dates that this will be settled.,1,0,0,0,0,0,0,0,1
+64a69afde22bbccf37317e2a,"As Afghan Migrants Are Kept In A Former Dick‚Äôs Sporting Goods, Measles Appears In Northern Virginia",authors,,How are we sure that this hasn't been an issue for longer than what is assumed?,0,0,1,0,0,0,0,1,3
+64a69afde22bbccf37317e2a,"As Afghan Migrants Are Kept In A Former Dick‚Äôs Sporting Goods, Measles Appears In Northern Virginia",authors,,Why has this not made it to the national news?,0,0,0,0,0,1,0,0,2
+64a69afde22bbccf37317e2a,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",authors,,Are there any others that are in line to get fired next?,1,0,0,0,0,0,0,0,1
+64a6a09486298c0ec95cefa4,"As Afghan Migrants Are Kept In A Former Dick‚Äôs Sporting Goods, Measles Appears In Northern Virginia",authors,,Why is this such a big deal since measles isn't fatal and people recover pretty quickly.,0,0,0,0,0,1,0,0,2
+64a6f9d4e6f19adf91d06d91,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,,How will the program guarantee that the funds being distrubted are going to legitimate farms and not someone trying to scam the government?,0,1,0,0,0,0,0,0,3
+64a6f9e035d90f9dd58308ac,Renewable energy is here. But how do we store it for the future?,authors,,"As Americans, we rely on big trucks and truck drivers for most of our goods and necessities. Do you think in the future it will be possible for these trucks to run sustainably and not have a need for diesel?",0,0,0,0,1,0,0,0,5
+64a6f9e035d90f9dd58308ac,Who is George Santos and why is he in trouble?,authors,,How is it possible for this person to still be holding office even though he has admitted to lying about almost everything in order to get elected?,0,0,0,0,1,0,0,0,2
+64a6f9ee35d90f9dd58308ad,Thawing permafrost may unleash industrial pollution across the Arctic,authors,,What can normal people lobby for in order to best combat the dangers that could come from the melting permafrost.,0,1,0,0,0,0,0,0,5
+64a6f9ee35d90f9dd58308ad,Thawing permafrost may unleash industrial pollution across the Arctic,authors,,"When the term ""arctic"" is used to describe the region, what areas specifically is that?",1,0,0,0,0,0,0,0,1
+64a6fa3f35d90f9dd58308ae,Here's where extreme heat could be devastating in coming years,authors,,What is defined as extreme heat? What temperature point?,1,0,0,0,0,0,0,0,1
+64a6fa3f35d90f9dd58308ae,"Trump sets off on race for White House, promises to make America 'great and glorious again'",authors,,Why are you giving this man any time and space in your publication? He almost ruined this country.,0,0,0,0,1,0,0,0,2
+64a6fc0935d90f9dd58308af,Here's where extreme heat could be devastating in coming years,authors,,What specifically can areas that are projected to have extreme heatwaves do to prepare their citizens for this situation?,0,1,0,0,0,0,0,0,3
+64a6fc0935d90f9dd58308af,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,authors,,What are the supposed risks of using VX-880?,0,1,0,0,0,0,0,0,1
+64a6fc0935d90f9dd58308af,The meaning behind the far-right symbol Texas shooter wore as he killed 8,authors,,How many of the people killed by the shooter at the Dallas area man were white? How many were minorities?,1,0,0,0,0,0,0,0,2
+64a71f427bbf7eb5083f6728,Chile‚Äôs desert dumpsite for 60K tons of fast fashion seen from space,authors,,Are Chile's officials trying anything to combat the situation.,0,1,0,0,0,0,0,0,2
+64a71f427bbf7eb5083f6728,Chile‚Äôs desert dumpsite for 60K tons of fast fashion seen from space,authors,,What fast fashion companies are contributing the most to the pollution.,1,0,0,0,0,0,0,0,1
+64a77b111f2cf98a5f295d1e,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,,"Where is the Arctic region that this article keeps mentioning, does it mean any area inside the Arctic Circle at the top of the globe?",1,0,0,0,0,1,0,1,1
+64a77b111f2cf98a5f295d1e,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,,How many nuclear testing and radioactive waste areas are in the Arctic that can be confirmed?,1,0,0,0,0,0,0,0,1
+64a77b111f2cf98a5f295d1e,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,,"Other than preventing rising temperatures, what can we do to prevent this type of pollution, is it even possible to relocate and contain these contaminants in some way before get worse with so many sites?",0,0,0,0,1,0,0,0,2
+64a77b111f2cf98a5f295d1e,"As Afghan Migrants Are Kept In A Former Dick‚Äôs Sporting Goods, Measles Appears In Northern Virginia",chatbot,,Why are there a large number of Afghan migrants all at once to where the government program had to be made to house and take care of them?,0,0,0,0,0,1,0,0,2
+64a77b111f2cf98a5f295d1e,"As Afghan Migrants Are Kept In A Former Dick‚Äôs Sporting Goods, Measles Appears In Northern Virginia",chatbot,,Is the county or the government making the migrants get the measles vaccine because of the outbreak?,1,0,0,1,0,0,0,0,2
+64a77c0488be86775400d681,Here's where extreme heat could be devastating in coming years,chatbot,,How can the government counteract the negative effects?,0,1,0,0,1,0,0,0,2
+64a77c0488be86775400d681,Here's where extreme heat could be devastating in coming years,chatbot,,What can citizens of these countries do to reduce the climate change?,0,0,0,0,1,0,0,0,2
+64a77c0488be86775400d681,Measles outbreak across US hits 25 year high,chatbot,,How many deaths were reported from measles last year?,1,0,0,0,0,0,0,0,1
+64a77c0488be86775400d681,Measles outbreak across US hits 25 year high,chatbot,,What are the symptoms of the measles?,0,1,0,0,0,0,0,0,1
+64a77c6b1f2cf98a5f295d23,Here's where extreme heat could be devastating in coming years,chatbot,,Are there any measures that other countries or the UN are taking to help for if / when these devastating vulnerabilities take place?,0,1,0,0,0,0,0,0,3
+64a77c6b1f2cf98a5f295d23,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",chatbot,,When was this article written?,1,0,0,0,0,0,0,0,1
+64a7b3a674753de230d81b71,Here's where extreme heat could be devastating in coming years,chatbot,,Do you think that any regions of the planet will actually benefit in any way from climate change in the future?,0,0,0,0,1,0,0,0,3
+64a7b3a674753de230d81b71,Here's where extreme heat could be devastating in coming years,chatbot,,"Regarding Honduras, Guatemala, and Central America in general, what is the expected timeline where the weather really starts becoming devastating to human habitation?",1,0,0,0,0,0,0,0,2
+64a7b3a674753de230d81b71,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,,Does Vertex have any plans for testing further subjects in the future after this solo trial?,0,1,0,1,0,0,0,0,1
+64a7b3a674753de230d81b71,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,,Has there been any other candidates in the Republican Party officially announcing their bid besides DeSantis?,1,0,0,0,0,0,0,0,1
+64a7e8ee3562ba51a295b2e8,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,,What are some other concerns besides money allocations that Republicans have?,0,1,0,0,0,0,0,0,2
+64a7e8ee3562ba51a295b2e8,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,,What is the methodology that USDA have in place to ensure funds are allocated properly?,0,1,0,0,0,0,0,0,1
+64a7e8ee3562ba51a295b2e8,What COVID Could Look Like One Year From Now,chatbot,,"What exactly is a soft lockdown and are more states implementing that type of lockdown, besides New York?",0,1,0,0,0,0,0,0,2
+64a7e8ee3562ba51a295b2e8,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,,Is Trump actually qualified to run for president for a third time due to his recent charges?,1,0,0,0,0,0,0,0,1
+64a7e8ee3562ba51a295b2e8,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,,"Will Trump have a new team, such as campaign aides and his inner circle, that he can trust?",0,0,0,1,0,0,0,0,1
+64a7eb4b9b3596ed7981eb91,Renewable energy is here. But how do we store it for the future?,chatbot,,How much power can current batteries save from renewable power sources and how long does it last?,1,0,0,0,0,0,0,0,1
+64a7eb4b9b3596ed7981eb91,Renewable energy is here. But how do we store it for the future?,chatbot,,What show is this article referring to this interview coming from?,1,0,0,0,0,0,0,0,1
+64a7eb4b9b3596ed7981eb91,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,,Is there any plans for future studies with more patients?,0,0,0,1,0,0,0,0,1
+65753f3f68593b5ba8e9e29d,Here's where extreme heat could be devastating in coming years,chatbot,26,"Will my region in Upstate, New York be vulnerable to the effects of climate change in the future?",0,1,0,0,0,0,0,0,3
+65753f3f68593b5ba8e9e29d,Here's where extreme heat could be devastating in coming years,chatbot,40,What type of actions should Governments be taking to prepare for these types of climate events,0,1,0,0,0,0,0,0,3
+65753f3f68593b5ba8e9e29d,What COVID Could Look Like One Year From Now,chatbot,14-19,How effective are the current vaccines with the newest variants?,0,1,0,0,0,0,0,0,1
+65753f3f68593b5ba8e9e29d,What COVID Could Look Like One Year From Now,chatbot,20-21,How long will it be until we know about the surge from the Holidays?,1,0,0,0,0,0,0,0,1
+65753f3f68593b5ba8e9e29d,Who is George Santos and why is he in trouble?,chatbot,2-Jan,Why did the news about Santos not come out during his initial campaign?,0,0,0,0,0,1,0,0,2
+65753f3f68593b5ba8e9e29d,Who is George Santos and why is he in trouble?,chatbot,75-76,Why does the Speaker of the House give him the benefit of the doubt?,0,0,0,0,0,1,0,0,2
+65753fd031057d2516ba1eac,Renewable energy is here. But how do we store it for the future?,chatbot,N/A,How is energy from wind and solar being stored right now?,1,0,0,0,0,0,0,0,1
+65753fd031057d2516ba1eac,Renewable energy is here. But how do we store it for the future?,chatbot,N/A,Is the united states funding green energy storage research?,0,1,0,0,0,0,0,0,1
+65753fd031057d2516ba1eac,Measles outbreak across US hits 25 year high,chatbot,16-18,Is the CDC doing more to get correct information out about measles vaccine?,0,1,0,0,0,0,0,0,2
+65753fd031057d2516ba1eac,Measles outbreak across US hits 25 year high,chatbot,N/A,What are the symptoms of measles?,1,0,0,0,0,0,0,0,1
+65753fd031057d2516ba1eac,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,N/A,How is Trump going to make America great and glorious again?,0,0,0,0,1,0,0,0,2
+65753fd031057d2516ba1eac,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,N/A,What are Donald Trumps academic achievements?,1,0,0,0,0,0,0,0,1
+6575423468593b5ba8e9e2a0,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,"8, 21, 25",I noticed that this article would like to use vague qualifiers like could probably in May. Could you provide more hard numbers on some of these things?,0,0,1,0,0,0,0,1,3
+6575423468593b5ba8e9e2a0,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,25,"Regarding industrial pollutants, this is a case where I feel that is an overly broad term that could vary from harmless to deadly. I would like to know what these exact pollutants would tend to be and in what quantities.",0,0,1,0,0,0,0,0,4
+6575423468593b5ba8e9e2a0,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,N/A,Will be met with any legal and/or regulartory barriers down the road?,0,1,0,0,0,0,0,0,1
+6575423468593b5ba8e9e2a0,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,N/A,"If you could put a more concrete number or term to it, how promising does the results from this one person trial result in it being a net positive for people with diabetes as a whole? It's obviously states this doesn't mean it will translate, but how promising exactly is it?",0,0,0,0,0,1,0,0,3
+6575423468593b5ba8e9e2a0,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",chatbot,"35, 36","How was this number for how much the ""Call to Action"" generated arrived at? It seems like a complete ass pull of a number that isn't questioned and should be.",0,0,0,0,0,1,0,1,3
+6575423468593b5ba8e9e2a0,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",chatbot,N/A,"This article seems like it's trying to evade the main problem of this issue, which is the actual immigration. What is the purpose of this article? I'm being serious? It just seems like the media must address the topic from how big it has become but doesn't want to look at the problem closely. Instead it obfuscates blame(sort of) on Harris and a busy scheduleand away from Biden. It even tries to somewhat credit him through his wife. So what's the purpose of this ragpiece?",0,0,0,0,0,1,0,1,3
+6575437231057d2516ba1eb0,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,N/A,Is there a list of potential sites that are in danger from permafrost thawing?,0,1,0,0,0,0,0,0,1
+6575437231057d2516ba1eb0,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,52-57,Can you provide a source about what Guy Dore said?,1,0,0,0,0,0,0,0,1
+6575437231057d2516ba1eb0,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",chatbot,36-38,"Why is it that New York, a state hit hard by the pandemic, experienced the smallest rise in anxiety in late 2020?",0,0,0,0,0,1,0,0,2
+6575437231057d2516ba1eb0,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",chatbot,6-Apr,Can you link me a source to the survey data released by the CDC?,0,0,1,0,0,0,0,0,1
+6575437231057d2516ba1eb0,The meaning behind the far-right symbol Texas shooter wore as he killed 8,chatbot,63-80,Can you link me to any other articles or publications about how non-white people can end up in a white supremacist group?,0,0,1,0,0,0,0,0,1
+6575437231057d2516ba1eb0,The meaning behind the far-right symbol Texas shooter wore as he killed 8,chatbot,30-Dec,Do you have any recommendations for other reading about the history of the RWDS term?,0,0,0,0,0,0,1,0,1
+65754b4f68593b5ba8e9e2a1,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,-2,What was Russia's official stance on the diesel fuel spill in May 2020 in northern Siberia?,0,1,0,0,0,0,0,0,2
+65754b4f68593b5ba8e9e2a1,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,6-Apr,What is the amount of sites that the thaw threatens to destabilise per each Arctic country?,1,0,0,0,0,0,0,0,1
+65754b4f68593b5ba8e9e2a1,Measles outbreak across US hits 25 year high,chatbot,36,"How many of the Orthodox Jewish community in NY had measles previously, such as in 2010?",1,0,0,0,0,0,0,0,1
+65754b4f68593b5ba8e9e2a1,Measles outbreak across US hits 25 year high,chatbot,12-Nov,"Why is the Jewish Orthodox community only now starting to resist vaccines, or if they always have, why are they getting measles more now than before?",0,0,0,0,0,1,0,0,3
+65754b4f68593b5ba8e9e2a1,The meaning behind the far-right symbol Texas shooter wore as he killed 8,chatbot,6-Apr,Where did Mauricio Garcia grow up?,1,0,0,0,0,0,0,0,1
+65754b4f68593b5ba8e9e2a1,The meaning behind the far-right symbol Texas shooter wore as he killed 8,chatbot,13-15,"What exactly does ""1488"" mean?",1,0,0,0,0,0,0,0,1
+657552ca31057d2516ba1eb4,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,"14, 15, 16, 17","Why did people think it was a good idea to bury toxic substances in permafrost in the arctic, when it had the possibility of melting and sites weren't secure?",0,0,0,0,0,1,0,0,1
+657552ca31057d2516ba1eb4,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,"58, 59, 60",Are any countries looking into dealing with the potential for contamination in arctic regions that are thawing by passing laws to regulate businesses and how they deal with waste?,0,1,0,0,0,0,0,0,2
+657552ca31057d2516ba1eb4,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,"23, 24, 25, 26",Was nano technology used in the development of the stem cell treatment VX-880 to help the patient produce cells that are able to produce insulin?,0,1,0,0,0,0,0,0,3
+657552ca31057d2516ba1eb4,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,"36, 37, 38, 39, 40",How did they determine in the clinical trial that the health events experienced by the patient weren't related to VX-880?,0,0,0,0,0,1,0,0,3
+657552ca31057d2516ba1eb4,The meaning behind the far-right symbol Texas shooter wore as he killed 8,chatbot,"16, 17, 18, 19, 23, 24","Is the media attempting to connect the term Right Wing Death Squad to Conservatives, by saying its being used by right wing extremists?",0,1,0,0,0,0,0,0,4
+657552ca31057d2516ba1eb4,The meaning behind the far-right symbol Texas shooter wore as he killed 8,chatbot,"67, 68",Is the appeal of neo Nazi websites widespread in Spanish speaking countries?,0,1,0,0,0,0,0,0,2
+6575536331057d2516ba1eb5,Here's where extreme heat could be devastating in coming years,chatbot,4-Jan,What are the big cities that will be affected?,1,0,0,0,0,0,0,0,1
+6575536331057d2516ba1eb5,Here's where extreme heat could be devastating in coming years,chatbot,9-Jul,What were the high temperatures in recent years?,1,0,0,0,0,0,0,0,1
+6575536331057d2516ba1eb5,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,41-43,How many people will be needed to run clinical trials,1,0,0,0,0,0,0,0,1
+6575536331057d2516ba1eb5,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,48-49,Does Doug Mellon own the patent for this therapy?,0,0,0,1,0,0,0,0,1
+6575536331057d2516ba1eb5,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",chatbot,9-Jul,Why was Lemon fired?,0,1,0,0,0,0,0,0,1
+6575536331057d2516ba1eb5,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",chatbot,12-Oct,What did Lemon's firing have to do with Jeff Shell's firing?,0,1,0,0,0,0,0,0,2
+6575547468593b5ba8e9e2a2,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,N/A,Is there any pollution in the permafrost in Antartica that we need to worry about? Or is it just the Arctic Circle/arctic area?,0,1,0,0,0,0,0,0,3
+6575547468593b5ba8e9e2a2,Thawing permafrost may unleash industrial pollution across the Arctic,chatbot,23-24,Where and when did the antibiotic-resistant bacteria and viruses originate?,1,0,0,0,0,0,0,0,1
+6575547468593b5ba8e9e2a2,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",chatbot,8-May,What steps have been taken to contain the exposure among the US citizens mentioned? Have they been alerted?,0,1,0,0,0,0,0,0,3
+6575547468593b5ba8e9e2a2,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",chatbot,22-25,Why was there a need for fences and black fabric to obscure the view of what was going on?,0,0,0,0,0,1,0,0,3
+6575547468593b5ba8e9e2a2,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,N/A,"Will Trump be eligible to run for president if he is convicted in his court cases, especially of inciting insurrection?",0,1,0,0,0,0,0,0,2
+6575547468593b5ba8e9e2a2,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,N/A,Have we ever before had a Presidential candidate charged with so many felonies?,1,0,0,0,0,0,0,0,1
+6575550931057d2516ba1eb6,Renewable energy is here. But how do we store it for the future?,chatbot,26,How will they ensure it is fair?,0,1,0,0,0,0,0,0,1
+6575550931057d2516ba1eb6,Renewable energy is here. But how do we store it for the future?,chatbot,26,How will they ensure it is equitable?,0,1,0,0,0,0,0,0,1
+6575550931057d2516ba1eb6,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,N/A,How expensive will this be?,1,0,0,0,0,0,0,0,1
+6575550931057d2516ba1eb6,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,N/A,Are there other treatments being developed?,1,0,0,0,0,0,0,0,1
+6575550931057d2516ba1eb6,The meaning behind the far-right symbol Texas shooter wore as he killed 8,chatbot,7,Who owns this Russian site?,1,0,0,0,0,0,0,0,1
+6575550931057d2516ba1eb6,The meaning behind the far-right symbol Texas shooter wore as he killed 8,chatbot,70-71,How often do those who don't consider themselves white support white supremacist movements?,0,1,0,0,0,0,0,0,2
+6575a181a351349e91202919,Chile’s desert dumpsite for 60K tons of fast fashion seen from space,authors,29-30,How do we know that the clothes are the result of fast fashion? Do we know what brands of clothes are being dumped there?,1,1,0,0,0,0,0,0,2
+6575a181a351349e91202919,Chile’s desert dumpsite for 60K tons of fast fashion seen from space,authors,6-May,Is the Chilean government being compensated for its use as a dumping site?,0,1,0,1,0,0,0,0,1
+6575a181a351349e91202919,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,authors,24-26,"If only half the target dose was sufficient to result in 91% decrease, then what does that say about the accuracy of the initial dosage and the researchers ability to determine a safe amount for use?",0,0,0,0,0,1,0,0,5
+6575a181a351349e91202919,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,authors,41-43,"What are the next steps for clinical trials for the therapy, in terms of broader numbers of test subjects to receive the treatment?",0,1,0,0,0,0,0,0,2
+6575a181a351349e91202919,Who is George Santos and why is he in trouble?,authors,71-72,When was this article written? Santos was already found guilty of multiple corrupt practices by an ethics commitee and voted out of the house or representatives earlier this month.,1,0,0,0,0,0,0,0,3
+6575a181a351349e91202919,Who is George Santos and why is he in trouble?,authors,48-49,"Did Santos ever actually live in or go to Brazil, or is that also part of his fabricated C.V.?",1,0,0,0,0,0,0,0,2
+6575a20ba351349e9120291a,Here's where extreme heat could be devastating in coming years,authors,24-25,What exactly can these regions do to prepare for extreme heat?,0,1,0,0,0,0,0,0,1
+6575a20ba351349e9120291a,Here's where extreme heat could be devastating in coming years,authors,40-41,Are there any specific actions populations can take to prepare themselves without government intervention?,0,1,0,0,0,0,0,0,1
+6575a20ba351349e9120291a,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",authors,27-28,What other kinds of socioeconomic factors influenced the prevalence of anxiety and depression?,1,0,0,0,0,0,0,0,2
+6575a20ba351349e9120291a,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",authors,34-35,What was associated with the state of Mississippi having the largest increase in scores?,0,1,0,0,0,0,0,0,1
+6575a20ba351349e9120291a,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",authors,7-May,What was the outcome of Grossberg's allegations against the network?,0,1,0,0,0,0,0,0,1
+6575a20ba351349e9120291a,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",authors,11-Oct,What were the controversies alleged in Lemon's firing?,0,1,0,0,0,0,0,0,1
+6575ab86e4794be0e7ed7755,Here's where extreme heat could be devastating in coming years,authors,N/A,"Every negative environmental occurrence has at least some positives, such as forest fires opening up the canopy and leading to new lush vegetative growth, so what are some potentially positive impacts of climate change?",0,1,0,0,0,1,0,0,4
+6575ab86e4794be0e7ed7755,Here's where extreme heat could be devastating in coming years,authors,18-19,"How does climate change have any relation to a ""barrier to health care""? What are you expecting to happen to people's health?",0,0,1,0,1,1,0,0,5
+6575ab86e4794be0e7ed7755,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",authors,N/A,What is the overall estimated number of Afghans brought over this year?,1,0,0,0,0,0,0,0,1
+6575ab86e4794be0e7ed7755,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",authors,38-39,"You say they are ""integrating into the country"", but which specific states are they being transported to?",1,0,1,0,0,0,0,1,2
+6575ab86e4794be0e7ed7755,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",authors,18-19,You are insinuating that Carlson wasn't fact-checking and was telling lies. What lies can you point to that backs up your claim?,0,0,1,0,0,0,0,1,3
+6575ab86e4794be0e7ed7755,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",authors,7-Jun,"One off-handed comment doesn't mean there is a ""misogynistic, toxic work environment"", so what proof is there to support your claim of a toxic culture?",0,0,1,0,0,0,0,1,4
+6575aed3a351349e9120291b,Here's where extreme heat could be devastating in coming years,authors,5,How do pre=existing socioeconomic conditions effect how hot it might get in certain regions?,0,1,0,0,0,0,0,0,3
+6575aed3a351349e9120291b,Here's where extreme heat could be devastating in coming years,authors,19-20,How do geopolitical forces undermine a region’s ability to adapt or build resilience to climate extremes?,0,0,0,0,0,1,0,0,4
+6575aed3a351349e9120291b,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",authors,27-29,Where were the migrants taken when they were removed from Dick's Sporting Goods location?,1,0,0,0,0,0,0,0,1
+6575aed3a351349e9120291b,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",authors,15-18,"If the federal government brought in the migrants, why did taking care of them fall to local governments?",0,0,0,0,0,1,0,0,4
+6575aed3a351349e9120291b,Who is George Santos and why is he in trouble?,authors,11-May,"With so many lies that he told, why was this not discovered sooner?",0,0,0,0,0,1,0,0,4
+6575aed3a351349e9120291b,Who is George Santos and why is he in trouble?,authors,71-72,Why is George Santos refusing to resign when he knows all his lies have been discovered?,0,0,0,0,0,1,0,0,4
+6575b1a8a351349e9120291c,Here's where extreme heat could be devastating in coming years,authors,40-41,What sort of outcome do you feel that governments may be able to provide for residents in some of the areas?,0,0,0,0,1,0,0,0,2
+6575b1a8a351349e9120291c,Here's where extreme heat could be devastating in coming years,authors,32-34,What may have led to the suspected under-reporting of deaths in Oregon during the 2021 heat wave?,0,1,0,0,0,0,0,0,2
+6575b1a8a351349e9120291c,What COVID Could Look Like One Year From Now,authors,20-21,What about the holiday season causes so much disruption in the data?,0,0,0,0,0,1,0,0,2
+6575b1a8a351349e9120291c,What COVID Could Look Like One Year From Now,authors,24-27,"If the current situation is not going to continue, then what is the prognosis for life one year after the article?",0,0,0,0,1,0,0,0,3
+6575b1a8a351349e9120291c,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,19-22,"What does the support of inclusive economic development look like in under developed countries, when headed by massive companies?",0,1,0,0,0,0,0,0,3
+6575b1a8a351349e9120291c,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,59-60,"Historically, what is the outcome of a vice president having a least favorite assignment or project?",1,0,0,0,0,0,0,0,1
+6575b3e3a351349e9120291d,Here's where extreme heat could be devastating in coming years,authors,24-25 29-30,What can the world community do to help these areas of extreme climate change?,0,1,0,0,0,0,0,0,2
+6575b3e3a351349e9120291d,Here's where extreme heat could be devastating in coming years,authors,17-18,What resources would be on the top of the list needed to help?,1,0,0,0,0,0,0,0,1
+6575b3e3a351349e9120291d,What COVID Could Look Like One Year From Now,authors,11-Oct,What makes Omicron different than the other Covid-19 variants?,0,1,0,0,0,0,0,0,1
+6575b3e3a351349e9120291d,What COVID Could Look Like One Year From Now,authors,14-15,What is expected to change in our relationship with vaccines?,0,1,0,0,0,0,0,0,1
+6575b3e3a351349e9120291d,The meaning behind the far-right symbol Texas shooter wore as he killed 8,authors,73-74,How can we reach women affected by this misinformation and hate?,0,1,0,0,0,0,0,0,1
+6575b3e3a351349e9120291d,The meaning behind the far-right symbol Texas shooter wore as he killed 8,authors,69,How can an Hispanic consider themselves white?,0,0,0,0,0,1,0,0,2
+6575b670e4794be0e7ed7756,Chile’s desert dumpsite for 60K tons of fast fashion seen from space,authors,1,What ciy in Chile is the Atacamo Desert in,1,0,0,0,0,0,0,0,1
+6575b670e4794be0e7ed7756,Chile’s desert dumpsite for 60K tons of fast fashion seen from space,authors,2-Jan,Why are they dumping clothes there and what do they do with all of those clothes?,0,1,0,0,0,1,0,0,3
+6575b670e4794be0e7ed7756,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",authors,1,Why is Dick's sporting good holding Afghan migrants?,0,0,0,0,0,1,0,0,2
+6575b670e4794be0e7ed7756,"As Afghan Migrants Are Kept In A Former Dick’s Sporting Goods, Measles Appears In Northern Virginia",authors,1,What is going to happen to the migrants?,0,1,0,0,0,0,0,0,1
+6575b670e4794be0e7ed7756,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",authors,4-Jan,What was in those private text's that caused Carlson to get fired?,0,1,0,0,0,0,0,0,1
+6575b670e4794be0e7ed7756,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",authors,4-Jan,If they texts were private how did they find out what was in them?,0,0,0,0,0,1,0,0,3
+6575be1fe4794be0e7ed7757,Thawing permafrost may unleash industrial pollution across the Arctic,authors,13-17,Wouldn't it be be better to store toxic substances in locations that can't hurt our earth such has space instead of permafrost.,0,0,0,0,0,1,0,0,5
+6575be1fe4794be0e7ed7757,Thawing permafrost may unleash industrial pollution across the Arctic,authors,58-60,How much do help do you think regulations would help in slowing this problem down.,0,0,0,0,1,0,0,0,3
+6575be1fe4794be0e7ed7757,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",authors,29 - 33,Are we ever expected to get to pre Covid numbers in hospitalizations and deaths.,0,0,0,0,1,0,0,0,3
+6575be1fe4794be0e7ed7757,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",authors,15 - 19,What are the chances that we come back down to pre Covid numbers anxiety and depression.,0,1,0,0,0,0,0,0,3
+6575be1fe4794be0e7ed7757,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,61 - 67,What do you think is the primary reason that people want to leave home and do you think we can take care of it.,0,0,0,0,1,0,0,0,4
+6575be1fe4794be0e7ed7757,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,32-36,"Do you think the ""Call to Action"" will actually do anything in that region.",0,0,0,0,1,0,0,0,4
+6575c80aa351349e9120291f,Renewable energy is here. But how do we store it for the future?,authors,20,What other elements besides cobalt could be used in lithium-ion batteries?,1,0,0,0,0,0,0,0,1
+6575c80aa351349e9120291f,Renewable energy is here. But how do we store it for the future?,authors,17,How can we store wind and solar energy?,0,1,0,0,0,0,0,0,1
+6575c80aa351349e9120291f,Measles outbreak across US hits 25 year high,authors,30,What is the effect on the unborn baby of a mother who has measles?,0,1,0,0,0,0,0,0,2
+6575c80aa351349e9120291f,Measles outbreak across US hits 25 year high,authors,38,Is it constitutional/legal for Mayor de Blasio to mandate vaccinations?,0,0,0,1,0,0,0,0,1
+6575c80aa351349e9120291f,"Trump sets off on race for White House, promises to make America 'great and glorious again'",authors,3,Was this announcement televised?,0,0,0,1,0,0,0,0,1
+6575c80aa351349e9120291f,"Trump sets off on race for White House, promises to make America 'great and glorious again'",authors,8,"During his speech, did former President Trump elaborate on what ""issues, vision, and success"" meant?",0,1,0,0,0,0,0,0,2
+65761eec7be89053bd7a8191,Chile’s desert dumpsite for 60K tons of fast fashion seen from space,authors,N/A,What steps do you think we can take to change the fast fashion industry?,0,0,0,0,1,0,0,0,3
+65761eec7be89053bd7a8191,Chile’s desert dumpsite for 60K tons of fast fashion seen from space,authors,N/A,Where was the satellite image purchased from?,1,0,0,0,0,0,0,0,1
+65761eec7be89053bd7a8191,What COVID Could Look Like One Year From Now,authors,N/A,In what ways do the holidays throw off the outbreak data?,0,1,0,0,0,0,0,0,2
+65761eec7be89053bd7a8191,What COVID Could Look Like One Year From Now,authors,N/A,Was there any further comment from Anthony Fauci about what the situation would look like?,0,1,0,0,0,0,0,0,3
+65761eec7be89053bd7a8191,"Trump sets off on race for White House, promises to make America 'great and glorious again'",authors,8,What specific issues were mentioned as part of the campaign?,0,1,0,0,0,0,0,0,2
+65761eec7be89053bd7a8191,"Trump sets off on race for White House, promises to make America 'great and glorious again'",authors,14,Was there any plan for how he intends to bring people together?,0,1,0,0,0,0,0,0,2
+657629564f66c80a5f1908ee,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,20-22,"John Boozman raised a good question, is there a definite answer to whether whether some crops would receive more support from the IRA money than others because if so, it would be unfair to some farmers and beneficial to other?",0,0,0,0,0,1,0,0,6
+657629564f66c80a5f1908ee,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,authors,16-17,Is there a real possibility that there are farmers that may have complaints but are either unware of the bill or have voices that have been unheard so far by the administration?,0,0,0,0,0,1,0,0,5
+657629564f66c80a5f1908ee,Measles outbreak across US hits 25 year high,authors,27-28,"How does something like the measles which were eradicated in the US in 2000, re-remerged in the present day, what could be the source or origin?",0,0,1,0,0,0,0,1,4
+657629564f66c80a5f1908ee,Measles outbreak across US hits 25 year high,authors,37-38,How does the city keep track of who have been vaccinated versus those who haven't in order to ticket and possibly fine them?,0,1,0,0,0,0,0,0,4
+657629564f66c80a5f1908ee,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,N/A,"It is fair to conclude that the Vice President, Kamala Harris, actions or inaction toward the issue of immigration at the Southern border, a duty that she is failing to address?",0,0,0,0,1,0,0,0,5
+657629564f66c80a5f1908ee,"VP Kamala Harris inactive on border crisis as migrant surge continues, Title 42 end looms",authors,17-19,"Visiting the border seems like an easy task, is there any particular reasons why the Vice President kept delaying the visit until the last days of June?",0,1,0,0,0,0,0,0,4
+6576340c4f66c80a5f1908ef,Renewable energy is here. But how do we store it for the future?,authors,22-24,"Under the assumption that energy will be produced in southern areas of the planet, what are your thoughts on how the energy will then be transferred for use in the more heavily populated northern areas?",0,0,0,0,1,0,0,0,5
+6576340c4f66c80a5f1908ef,Renewable energy is here. But how do we store it for the future?,authors,20-21,"What does it look like long term for cobalt mining to become safer and less exploitative, and presumably more expensive? Especially once more easily accessible sources are exhausted? So energy storage costs then balloon?",0,1,0,0,0,1,0,0,6
+6576340c4f66c80a5f1908ef,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",authors,23-26,"Is there anything that can be done to ameliorate the psychological impact on populations at higher risk of ill effects, if good access to mental health services are not already in place?",0,1,0,0,0,0,0,0,6
+6576340c4f66c80a5f1908ef,"Depression and anxiety declined in the first half of 2021 but remained high, the C.D.C. reports",authors,36-38,Is there any indication why New York had such a small anxiety increase (and corresponding decrease) compared to other states?,0,0,0,0,0,1,0,0,4
+6576340c4f66c80a5f1908ef,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",authors,13-Nov,Was there a connection to the other two in the NBCUniversal CEO's firing or did they just happen close together?,0,1,0,0,0,0,0,0,4
+6576340c4f66c80a5f1908ef,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",authors,9-Jul,What was the dispute between Lemon and CNN about?,0,1,0,0,0,0,0,0,2
+65765ae4451ae4cf7612cc6e,Here's where extreme heat could be devastating in coming years,chatbot,"3,4,5",Why is it that the identified regions have experienced intensified heat waves?,0,0,0,0,0,1,0,0,2
+65765ae4451ae4cf7612cc6e,Here's where extreme heat could be devastating in coming years,chatbot,"35,36",In what ways would the researchers been able to identify the region's risk beforehand?,0,1,0,0,0,0,0,0,3
+65765ae4451ae4cf7612cc6e,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,3,Why was there only 1 patient in the entire trial?,0,0,0,0,0,1,0,0,1
+65765ae4451ae4cf7612cc6e,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,"23,24",What kind of stem cells is VX-880 derived from?,1,0,0,0,0,0,0,0,1
+65765ae4451ae4cf7612cc6e,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",chatbot,"1,2",Why were Tucker Carlson's private texts being reviewed?,0,0,0,0,0,1,0,0,2
+65765ae4451ae4cf7612cc6e,"Fox News Host Howard Kurtz Predicts 'Worthwhile Outcome' From Tucker Carlson, Don Lemon Getting Fired",chatbot,"5,6",What did Abby Grossberg sue Fox News for?,1,0,0,0,0,0,0,0,1
+65765b001f57407f811db5fa,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,13-16,"I know there haven't been any complaints from farmers and that there has been support from the farmers, but are there any actual quotes from farmers as to how they feel about the farm bill negotiations?",0,0,1,0,0,0,0,0,3
+65765b001f57407f811db5fa,Biden Administration Pledges Fight to Keep Climate-Friendly Farming Funds,chatbot,20,Have there been any updates on the farm bill situation since March 1st when the article says that a hearing took place?,0,1,0,0,0,0,0,0,2
+65765b001f57407f811db5fa,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,31,Are there any other drugs being tested now to help treat Type 1 Diabetes besides VX40 880 talked about in the article?,1,0,0,0,0,0,0,0,2
+65765b001f57407f811db5fa,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,31,"Have more studies been done on VX40 880 since the article was published, and what did those studies find, if so?",0,1,0,0,0,0,0,0,2
+65765b001f57407f811db5fa,Who is George Santos and why is he in trouble?,chatbot,8-Jul,It is mentioned in the article that George Santos lied about having helped produce the Spider-Man musical. Who did produce it?,1,0,0,0,0,0,0,0,2
+65765b001f57407f811db5fa,Who is George Santos and why is he in trouble?,chatbot,N/A,Are there any other lies that have come out publicly since this article was published that George Santos has told about his life?,0,1,0,0,0,0,0,0,3
+65765b4d451ae4cf7612cc6f,Renewable energy is here. But how do we store it for the future?,chatbot,NA,"Are there even enough raw materials on the planet to manufacture the number of batteries that would be required to store all of the ""green energy"" that will be needed to maintain civilization?",0,1,0,0,0,0,0,0,4
+65765b4d451ae4cf7612cc6f,Renewable energy is here. But how do we store it for the future?,chatbot,NA,Are lithium-ion batteries able to be recycled at the end of their life such that we can reuse the raw materials within to manufacture new lithium-ion batteries?,0,1,0,0,0,0,0,0,4
+65765b4d451ae4cf7612cc6f,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,38-40,"If the severe low blood sugar events and rash were not related to VX-880, what caused them?",0,1,0,0,0,0,0,0,2
+65765b4d451ae4cf7612cc6f,Stem cell therapy potentially could treat Type 1 diabetes by helping patients produce insulin,chatbot,36-37,What effect did VX-880 have on the patient's liver?,1,0,0,0,0,0,0,0,1
+65765b4d451ae4cf7612cc6f,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,4-Mar,How many former Presidents have run for re-election after losing as the incumbent?,1,0,0,0,0,0,0,0,1
+65765b4d451ae4cf7612cc6f,"Trump sets off on race for White House, promises to make America 'great and glorious again'",chatbot,17,"What was the result of the December 6, 2022 Senate runoff in Georgia?",0,1,0,0,0,0,0,0,2
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
