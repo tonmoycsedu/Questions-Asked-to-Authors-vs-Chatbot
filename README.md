@@ -1,4 +1,4 @@
-# A dataset of questions asked to Authors vs a Chatbor
+# A dataset of questions asked to Authors vs a Chatbot
 
 This is the accompanying dataset for the following research paper: 
 
